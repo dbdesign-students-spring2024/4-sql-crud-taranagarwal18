@@ -1,0 +1,1001 @@
+RestaurantID,Name,Address,Category,PriceTier,Neighborhood,OpeningHours,AverageRating,GoodForKids
+1,Fliptune,2 Arapahoe Place,Indian,expensive,Bronx,11:33,2.0,True
+2,Dablist,003 Elgar Lane,Greek,expensive,Staten Island,2:34,1.1,True
+3,Yodel,5 Burrows Park,Chinese,cheap,Astoria,20:34,0.6,True
+4,Tagfeed,2336 Bartillon Drive,Indian,expensive,Upper East Side,0:39,2.8,False
+5,Yambee,32 Warrior Terrace,Mediterranean,cheap,Brooklyn,9:43,2.8,False
+6,Twimbo,13 Browning Pass,Mexican,cheap,Bronx,11:03,0.3,False
+7,Devcast,3 Coolidge Terrace,French,expensive,Williamsburg,12:48,2.9,False
+8,Yacero,4596 Onsgard Point,Thai,expensive,Brooklyn,20:43,2.8,False
+9,Blogtag,5 Hayes Point,Indian,cheap,Queens,16:35,4.6,False
+10,Fivebridge,27 Petterle Junction,Mexican,medium,Upper East Side,12:08,3.6,False
+11,Dazzlesphere,33917 Cottonwood Hill,Thai,cheap,Williamsburg,9:31,4.7,False
+12,Linkbridge,7600 Heath Plaza,Italian,medium,Manhattan,9:05,1.3,True
+13,Wordtune,6743 Mitchell Alley,French,cheap,Queens,22:52,4.7,True
+14,Jayo,23 Dorton Hill,Indian,expensive,Astoria,19:35,0.4,True
+15,Kwinu,9 Jana Road,French,medium,Astoria,10:10,0.6,False
+16,Topicstorm,33 Oxford Street,Mexican,expensive,Bronx,13:40,0.8,True
+17,Fliptune,5919 Fuller Hill,Greek,expensive,Manhattan,23:08,1.8,True
+18,Skimia,1 Green Ridge Way,Japanese,cheap,Greenwich Village,19:20,3.1,False
+19,Chatterbridge,6696 Bonner Court,Thai,medium,Brooklyn,3:48,3.4,True
+20,Nlounge,5 Cardinal Parkway,Greek,cheap,Upper East Side,14:55,4.7,True
+21,Yakijo,06 Atwood Avenue,American,cheap,Bronx,22:00,1.5,False
+22,Mita,0 South Center,Chinese,cheap,Harlem,19:31,3.5,False
+23,Einti,2 Gerald Point,Italian,medium,Bronx,4:55,4.6,True
+24,Janyx,3550 Green Ridge Center,French,expensive,Queens,13:57,4.4,True
+25,Photofeed,732 Del Mar Terrace,Thai,cheap,Harlem,0:23,2.6,False
+26,Skynoodle,2601 Cambridge Alley,Italian,expensive,Manhattan,18:29,4.1,True
+27,Vinder,66 Sunfield Terrace,Mexican,cheap,Bronx,17:12,2.3,True
+28,Voonte,276 Aberg Trail,Mexican,expensive,Brooklyn,1:36,4.6,False
+29,Agimba,557 Karstens Lane,Mexican,cheap,Brooklyn,19:07,4.8,False
+30,Oyoba,5 7th Hill,Greek,expensive,Manhattan,10:42,1.1,False
+31,Skiba,9676 Chinook Junction,Greek,expensive,Harlem,1:30,3.1,False
+32,Tekfly,44 Veith Road,American,cheap,Manhattan,12:13,1.8,True
+33,Shuffletag,9 Maryland Park,Mexican,medium,Brooklyn,20:22,4.2,True
+34,Devify,53112 Oxford Pass,Greek,cheap,Greenwich Village,15:39,4.3,False
+35,Eire,3568 Randy Lane,French,cheap,Williamsburg,8:05,0.9,True
+36,Yodo,0423 Westridge Terrace,Mediterranean,cheap,Brooklyn,19:00,0.0,False
+37,Tanoodle,4388 Corscot Avenue,Mediterranean,cheap,Upper East Side,23:09,0.1,True
+38,Skalith,6 Sauthoff Parkway,Mediterranean,medium,Harlem,14:23,1.8,False
+39,Jazzy,048 Mifflin Circle,American,medium,Harlem,3:25,3.3,False
+40,Avavee,1 Artisan Center,French,expensive,Harlem,12:06,3.1,True
+41,Myworks,2 Clove Trail,Indian,cheap,Queens,0:12,4.2,False
+42,Gabtype,66 Monica Park,Indian,cheap,Greenwich Village,11:26,3.0,True
+43,Babbleset,177 Sloan Road,Mexican,medium,Queens,23:01,3.2,True
+44,Zava,19718 Rutledge Road,Japanese,medium,Brooklyn,21:18,0.5,True
+45,Kaymbo,501 La Follette Crossing,Thai,medium,Williamsburg,12:50,4.2,True
+46,Ooba,88 Sutherland Alley,Mediterranean,cheap,Brooklyn,20:26,2.3,True
+47,Feedfish,08775 Hauk Point,Mediterranean,cheap,Greenwich Village,13:59,2.7,True
+48,Kwimbee,91854 Stang Park,American,cheap,Bronx,12:46,0.9,False
+49,Gigaclub,815 Orin Place,Indian,cheap,Manhattan,7:18,0.1,True
+50,Yacero,20 Transport Point,Chinese,cheap,Queens,9:02,3.7,False
+51,Yakitri,700 Cascade Hill,Chinese,expensive,Williamsburg,16:35,1.0,True
+52,Oodoo,15 Melody Drive,Mexican,medium,Staten Island,20:32,3.8,False
+53,Aimbo,17567 Lakeland Pass,Chinese,cheap,Bronx,13:38,2.2,True
+54,Voonyx,811 Badeau Plaza,Mexican,medium,Upper East Side,22:58,3.5,True
+55,Camido,46 Crowley Road,American,cheap,Manhattan,18:32,1.4,False
+56,Dynabox,5 Annamark Point,Mediterranean,expensive,Harlem,6:50,3.8,True
+57,Youspan,017 Ludington Place,Indian,cheap,Manhattan,14:58,4.5,True
+58,Cogilith,508 Boyd Circle,Japanese,expensive,Bronx,12:38,3.2,False
+59,Roodel,48610 Pepper Wood Circle,Indian,medium,Manhattan,2:08,2.7,False
+60,Yabox,8 Montana Parkway,French,expensive,Upper East Side,2:24,2.6,True
+61,Skipstorm,00 Bay Center,Thai,medium,Manhattan,0:59,0.4,True
+62,Devbug,10295 Bluestem Way,Mediterranean,expensive,Astoria,4:33,3.2,False
+63,Nlounge,4 Glacier Hill Circle,American,expensive,Williamsburg,17:20,0.4,True
+64,Pixoboo,1925 Sloan Avenue,Greek,cheap,Greenwich Village,8:51,4.6,True
+65,Skynoodle,717 Northridge Plaza,Greek,medium,Williamsburg,10:57,0.0,False
+66,Topdrive,66442 Laurel Pass,Greek,cheap,Staten Island,17:53,2.1,False
+67,Gevee,8 Rowland Alley,American,medium,Astoria,1:40,1.2,False
+68,Youfeed,8 Miller Road,Chinese,cheap,Astoria,10:00,1.3,True
+69,Skiptube,69642 Nancy Avenue,Thai,medium,Manhattan,21:29,4.5,True
+70,Ailane,68 Lakewood Parkway,French,cheap,Harlem,3:23,4.9,False
+71,Jaloo,669 Village Green Alley,Mexican,cheap,Bronx,7:14,4.5,True
+72,Meetz,70878 Thackeray Trail,Thai,expensive,Williamsburg,4:06,3.2,True
+73,Edgewire,9001 Bluejay Junction,Mediterranean,medium,Manhattan,20:25,1.1,True
+74,Skippad,907 Southridge Park,Chinese,medium,Astoria,17:10,3.9,True
+75,Vidoo,216 Eliot Plaza,American,cheap,Bronx,19:52,1.3,False
+76,Eabox,21 Donald Crossing,Indian,medium,Staten Island,5:49,1.1,False
+77,Yabox,75 Cherokee Junction,Thai,expensive,Bronx,9:27,0.4,True
+78,Jabbersphere,7 Goodland Junction,Mediterranean,medium,Staten Island,13:05,4.0,False
+79,Linklinks,0264 American Ash Crossing,French,medium,Brooklyn,18:28,4.6,False
+80,Edgewire,067 Blaine Hill,Japanese,expensive,Greenwich Village,21:53,2.9,False
+81,Gevee,132 7th Drive,Chinese,expensive,Harlem,3:34,3.6,True
+82,Eidel,982 Red Cloud Alley,Indian,medium,Harlem,16:07,1.6,True
+83,Browseblab,4 Dottie Circle,Japanese,medium,Brooklyn,3:32,2.2,False
+84,Wordify,0 Boyd Plaza,Thai,expensive,Bronx,15:41,1.5,False
+85,Ooba,79272 Farwell Drive,Italian,expensive,Manhattan,9:59,3.8,True
+86,Bluejam,018 Warrior Point,Chinese,cheap,Staten Island,3:16,3.2,False
+87,Edgeify,20542 Huxley Court,French,cheap,Bronx,13:25,2.7,False
+88,Topicstorm,3 Homewood Circle,Greek,expensive,Williamsburg,12:51,2.4,True
+89,Rhynyx,6684 Sheridan Lane,American,medium,Brooklyn,10:23,0.9,True
+90,Janyx,85843 Arizona Point,Thai,medium,Harlem,5:10,1.2,False
+91,Meemm,5 Steensland Place,Japanese,medium,Manhattan,0:49,3.4,True
+92,Feedbug,1 Grim Drive,Chinese,expensive,Upper East Side,5:51,3.1,True
+93,Voonyx,08 Sommers Pass,Thai,medium,Staten Island,3:51,0.1,True
+94,Topiclounge,9 Holmberg Pass,Indian,cheap,Queens,14:53,3.9,True
+95,Nlounge,77 Dawn Avenue,Thai,expensive,Manhattan,8:28,1.3,False
+96,Browsebug,7437 Sunnyside Place,Mediterranean,cheap,Staten Island,12:40,3.8,True
+97,Eabox,70276 Gulseth Pass,Italian,cheap,Harlem,22:45,4.9,True
+98,Voonte,3 Washington Lane,Greek,expensive,Astoria,17:33,2.2,True
+99,Gabtype,34739 Debs Avenue,Italian,medium,Williamsburg,20:45,1.1,True
+100,Mymm,830 Russell Park,Japanese,cheap,Greenwich Village,7:15,2.7,True
+101,Kwimbee,822 Arkansas Junction,American,expensive,Brooklyn,4:30,3.0,True
+102,Katz,6 Ryan Hill,Mediterranean,expensive,Manhattan,20:08,2.9,False
+103,Dabshots,4758 Fair Oaks Plaza,Thai,expensive,Bronx,6:38,0.3,True
+104,Wordware,98 Arkansas Point,American,cheap,Brooklyn,21:11,4.5,False
+105,Zoomlounge,859 Homewood Avenue,Mediterranean,cheap,Harlem,16:08,0.1,True
+106,Kayveo,587 Ohio Avenue,Chinese,medium,Williamsburg,12:31,4.4,False
+107,Fivechat,16 Mcguire Drive,Italian,expensive,Bronx,8:11,0.9,False
+108,Youspan,70 Lotheville Circle,Mediterranean,expensive,Brooklyn,11:35,2.5,False
+109,Zazio,2 Crownhardt Trail,Thai,expensive,Astoria,3:24,3.0,False
+110,Gigashots,2 Cordelia Way,French,expensive,Greenwich Village,4:10,0.9,True
+111,Fadeo,4 Katie Center,Thai,expensive,Harlem,8:56,0.6,False
+112,Skiptube,031 Dahle Court,American,cheap,Queens,14:47,4.4,True
+113,Realfire,463 Jana Drive,American,cheap,Upper East Side,11:12,2.3,True
+114,Oozz,786 Northridge Terrace,American,expensive,Manhattan,1:48,1.8,True
+115,Abata,87 Vernon Road,American,expensive,Brooklyn,5:20,2.6,False
+116,Skyndu,95 Marquette Parkway,Mexican,expensive,Staten Island,19:26,1.5,False
+117,Zoomzone,808 Pond Circle,Japanese,expensive,Harlem,23:26,4.1,False
+118,Teklist,0093 West Pass,Italian,cheap,Astoria,13:01,3.3,False
+119,Oloo,05449 Monument Hill,Italian,cheap,Williamsburg,22:20,2.6,False
+120,Rhynoodle,5 Summerview Lane,Mexican,medium,Greenwich Village,18:56,3.6,True
+121,Zooveo,292 Havey Center,Chinese,medium,Harlem,3:03,1.8,False
+122,Gabvine,39191 Eagan Center,Indian,medium,Staten Island,15:07,1.3,False
+123,Oyoloo,4420 Autumn Leaf Junction,Mediterranean,cheap,Bronx,21:08,2.6,False
+124,Yozio,4829 Merry Terrace,American,expensive,Astoria,1:14,2.2,True
+125,Skinte,11 Kedzie Hill,Mediterranean,medium,Upper East Side,16:59,0.9,True
+126,Thoughtworks,7 Coleman Crossing,Italian,expensive,Brooklyn,8:47,4.6,True
+127,Yamia,2287 Becker Road,American,expensive,Greenwich Village,3:58,2.0,True
+128,Demizz,78476 Sugar Lane,Mexican,cheap,Williamsburg,17:38,2.4,True
+129,Rhycero,997 East Street,Mediterranean,cheap,Greenwich Village,20:57,0.5,False
+130,Rooxo,2 Pond Plaza,Mexican,medium,Astoria,3:41,0.7,False
+131,Mudo,83 Thompson Place,Mexican,expensive,Harlem,11:26,2.9,False
+132,Realpoint,40895 Sloan Trail,Mediterranean,cheap,Brooklyn,23:39,1.1,False
+133,Rhybox,1 Boyd Junction,French,medium,Bronx,7:53,2.2,True
+134,Fadeo,849 Lerdahl Terrace,Thai,cheap,Manhattan,10:40,0.0,False
+135,Realblab,077 Summit Drive,American,cheap,Staten Island,0:25,2.5,False
+136,Youtags,200 Oneill Avenue,Italian,medium,Harlem,3:05,1.7,False
+137,Muxo,9531 Beilfuss Junction,Japanese,medium,Bronx,9:13,2.8,True
+138,Leexo,7166 Di Loreto Way,Mexican,medium,Staten Island,2:37,3.8,False
+139,Thoughtstorm,67960 Glendale Alley,Mediterranean,cheap,Staten Island,5:03,3.4,False
+140,Jatri,0147 Kensington Court,French,expensive,Brooklyn,8:16,4.6,True
+141,Flashspan,9255 Schurz Parkway,Thai,cheap,Harlem,17:01,0.4,False
+142,Jazzy,866 Arizona Lane,Indian,cheap,Manhattan,21:33,2.8,True
+143,Jabberstorm,79074 Summit Junction,Mexican,cheap,Manhattan,1:46,3.8,False
+144,Snaptags,1 Kingsford Park,Japanese,medium,Queens,10:12,3.6,True
+145,Jetwire,1045 Morningstar Terrace,Thai,cheap,Brooklyn,3:17,3.7,True
+146,Digitube,523 Cherokee Alley,Mexican,cheap,Bronx,13:47,1.9,True
+147,Gevee,30 Barby Alley,French,expensive,Upper East Side,12:35,4.9,False
+148,Youopia,4601 Briar Crest Drive,Mediterranean,cheap,Greenwich Village,5:57,4.8,False
+149,Thoughtbeat,8369 Shasta Lane,American,cheap,Greenwich Village,15:33,2.3,True
+150,Flashdog,9939 Springs Hill,French,medium,Queens,15:56,1.1,False
+151,Flashset,322 Starling Place,Japanese,expensive,Manhattan,11:27,2.3,True
+152,Fliptune,9389 Division Court,American,medium,Upper East Side,12:53,4.2,True
+153,Riffpedia,03118 Iowa Pass,Chinese,cheap,Manhattan,18:47,4.4,False
+154,Edgewire,285 Ridgeway Pass,Italian,expensive,Williamsburg,20:51,2.6,False
+155,Gigaclub,75 Heffernan Terrace,Chinese,expensive,Harlem,15:43,1.8,True
+156,Skipstorm,48 Crowley Crossing,Indian,cheap,Greenwich Village,11:56,0.4,False
+157,Quinu,3 Maple Center,Greek,medium,Greenwich Village,9:19,1.6,True
+158,Wikido,23 Hagan Way,Chinese,expensive,Upper East Side,15:56,4.1,False
+159,Wikibox,34948 Anzinger Hill,French,expensive,Staten Island,13:34,5.0,True
+160,Browsebug,396 Forest Run Parkway,Japanese,cheap,Upper East Side,16:12,0.6,False
+161,Topicware,399 Farmco Trail,Thai,medium,Astoria,11:53,3.8,False
+162,Plambee,29 Lake View Road,Japanese,medium,Harlem,5:07,2.9,True
+163,Zava,0814 Scofield Lane,Italian,medium,Bronx,17:08,4.5,True
+164,Zoovu,261 Darwin Plaza,Italian,cheap,Queens,23:06,3.5,False
+165,Bubbletube,42219 Namekagon Alley,Japanese,expensive,Upper East Side,1:19,2.6,True
+166,Rhybox,55024 Express Park,Chinese,medium,Manhattan,22:27,2.0,False
+167,Vimbo,613 Ilene Pass,French,expensive,Greenwich Village,1:15,3.6,True
+168,Digitube,0 Eastlawn Plaza,French,medium,Brooklyn,13:01,1.6,True
+169,Thoughtmix,40 Center Avenue,Mediterranean,cheap,Harlem,17:06,4.4,False
+170,Bubblemix,190 Wayridge Terrace,American,expensive,Greenwich Village,14:34,2.2,True
+171,Dynava,69227 Schurz Lane,Mexican,cheap,Williamsburg,23:36,4.9,True
+172,Zooveo,25 Shopko Drive,Greek,medium,Queens,14:47,3.7,False
+173,Livefish,52874 Dennis Alley,Indian,medium,Queens,3:53,1.1,False
+174,Eayo,4992 Maryland Lane,Italian,medium,Manhattan,2:24,0.8,True
+175,Oodoo,459 Macpherson Park,Thai,expensive,Staten Island,22:21,0.5,False
+176,Twitterbridge,8576 Eastlawn Lane,Indian,medium,Astoria,11:37,4.7,False
+177,Tagtune,5 Daystar Place,Mediterranean,cheap,Harlem,15:24,4.9,False
+178,Jaxworks,47 Grasskamp Lane,Mexican,expensive,Manhattan,10:11,3.6,True
+179,Meejo,544 Swallow Terrace,Chinese,cheap,Manhattan,10:02,3.2,False
+180,Edgeify,945 Dorton Circle,Japanese,expensive,Queens,12:21,1.0,False
+181,Feedbug,5 Bowman Terrace,French,medium,Brooklyn,17:02,0.8,True
+182,Voolia,87 Hallows Terrace,Chinese,expensive,Bronx,17:47,0.4,False
+183,Wikibox,127 Melby Junction,Chinese,expensive,Manhattan,15:42,2.6,True
+184,Dynazzy,220 Northport Court,Greek,cheap,Bronx,22:44,1.2,False
+185,Bubbletube,2993 Village Green Alley,American,medium,Manhattan,1:53,2.3,False
+186,Kazu,0 Pennsylvania Pass,Chinese,cheap,Greenwich Village,16:43,4.9,False
+187,Skimia,7 Mifflin Crossing,Mediterranean,medium,Manhattan,1:34,2.3,True
+188,Tagchat,04 Katie Hill,Chinese,medium,Upper East Side,5:16,0.2,False
+189,Realbuzz,8 Goodland Lane,American,medium,Upper East Side,16:28,4.4,False
+190,Bubbletube,9221 Fieldstone Hill,Chinese,cheap,Upper East Side,7:41,3.7,False
+191,Izio,9926 Crowley Plaza,Greek,cheap,Queens,21:28,1.3,False
+192,Edgetag,8 Oxford Plaza,Chinese,medium,Brooklyn,9:00,3.1,False
+193,Camido,400 Mendota Hill,Greek,expensive,Queens,11:01,2.8,False
+194,Muxo,54305 Oakridge Center,Mediterranean,expensive,Staten Island,10:51,4.8,True
+195,Youbridge,01779 Graceland Junction,Mediterranean,cheap,Harlem,13:30,2.6,True
+196,Eadel,5 Bluejay Avenue,Chinese,cheap,Williamsburg,18:48,2.9,True
+197,Meejo,1 Russell Way,Italian,medium,Manhattan,15:01,0.1,False
+198,Digitube,143 Haas Trail,Italian,cheap,Queens,1:25,4.2,True
+199,JumpXS,10 International Road,Greek,medium,Greenwich Village,13:37,2.4,True
+200,Eamia,1 Union Circle,Indian,expensive,Queens,9:03,1.8,True
+201,Voonix,578 Gerald Place,Mexican,cheap,Brooklyn,10:01,2.4,False
+202,Myworks,38 Paget Alley,French,medium,Staten Island,20:07,2.8,False
+203,Skipstorm,09 Dwight Alley,American,medium,Upper East Side,3:43,4.7,False
+204,Mynte,7700 Hagan Place,French,expensive,Williamsburg,20:14,1.0,False
+205,Tagopia,850 Sycamore Circle,Japanese,medium,Williamsburg,20:53,4.6,True
+206,Bubbletube,5 South Trail,Mexican,cheap,Greenwich Village,12:33,4.3,True
+207,Jabbersphere,3 Pine View Center,Japanese,cheap,Manhattan,6:20,3.6,True
+208,Gabspot,0237 Esker Terrace,Italian,cheap,Williamsburg,14:06,3.9,True
+209,Jetwire,44 Victoria Terrace,French,expensive,Greenwich Village,13:38,0.9,True
+210,Tavu,49231 Acker Point,French,medium,Astoria,2:27,0.4,False
+211,Rhynyx,80155 Union Pass,Indian,medium,Bronx,8:45,0.9,False
+212,Trudeo,20 Victoria Park,American,cheap,Upper East Side,5:19,5.0,False
+213,Buzzster,04 Eggendart Lane,Thai,medium,Williamsburg,17:05,2.5,False
+214,Skiptube,8 Twin Pines Park,French,cheap,Greenwich Village,23:32,0.1,True
+215,Camimbo,87117 Maywood Plaza,Mediterranean,cheap,Greenwich Village,16:32,4.5,True
+216,Feedbug,156 Loomis Court,Thai,expensive,Harlem,11:09,3.9,True
+217,Skajo,25 Dovetail Street,Mediterranean,expensive,Staten Island,5:54,1.2,True
+218,Geba,2 Beilfuss Way,Mexican,expensive,Astoria,22:57,2.3,False
+219,Flashpoint,0210 Buell Way,American,cheap,Brooklyn,11:45,3.2,False
+220,Jazzy,81752 Grover Court,American,cheap,Greenwich Village,14:05,1.0,True
+221,Voonix,22 Merrick Parkway,Indian,cheap,Brooklyn,21:10,1.7,False
+222,Zoomdog,09319 Pepper Wood Parkway,Mexican,expensive,Upper East Side,7:15,3.3,True
+223,Camimbo,684 Karstens Junction,Chinese,medium,Upper East Side,19:31,1.4,False
+224,Oozz,4 Blackbird Avenue,Greek,expensive,Harlem,20:57,3.3,True
+225,Kaymbo,4 Texas Hill,Mexican,expensive,Harlem,8:33,3.2,False
+226,Wikizz,5 Arapahoe Circle,Indian,cheap,Brooklyn,4:41,1.5,True
+227,Dazzlesphere,3455 Lotheville Junction,Italian,cheap,Brooklyn,5:58,3.5,True
+228,Fivechat,58068 Mccormick Junction,Mexican,cheap,Queens,2:35,4.1,False
+229,Topicshots,8 Dottie Park,Chinese,cheap,Brooklyn,11:05,4.5,True
+230,Yoveo,08 Sycamore Terrace,Indian,expensive,Upper East Side,21:13,0.3,True
+231,Eazzy,0478 Huxley Lane,Mexican,medium,Manhattan,18:40,1.6,False
+232,Blogtag,5733 Shasta Alley,Indian,expensive,Upper East Side,14:16,3.4,False
+233,Eabox,1 Pleasure Place,American,cheap,Bronx,7:45,2.2,True
+234,Zoomlounge,88715 Maryland Lane,Greek,medium,Williamsburg,0:04,1.3,False
+235,Riffwire,13416 Graedel Pass,Indian,cheap,Upper East Side,2:10,0.5,True
+236,Blogpad,99533 Ludington Trail,Greek,medium,Williamsburg,18:15,0.2,True
+237,Tagfeed,07 Summit Point,Mediterranean,cheap,Williamsburg,0:38,0.5,False
+238,Quamba,38495 Becker Lane,French,cheap,Manhattan,5:04,1.8,False
+239,Shuffledrive,98 Hanover Terrace,Japanese,medium,Upper East Side,2:23,2.7,True
+240,Topicware,52 Portage Street,Japanese,cheap,Harlem,13:16,3.8,False
+241,Dabjam,0765 Luster Point,Mediterranean,expensive,Harlem,10:22,0.1,True
+242,Jabberbean,151 Doe Crossing Hill,Japanese,medium,Astoria,7:46,0.3,False
+243,Avamm,007 Vahlen Plaza,Thai,cheap,Williamsburg,11:22,2.5,True
+244,Meejo,1 Heath Crossing,French,medium,Upper East Side,6:44,4.4,True
+245,Yodo,00 Ramsey Junction,Japanese,cheap,Williamsburg,5:44,0.3,False
+246,Nlounge,47 Butternut Way,Thai,medium,Harlem,3:23,3.3,False
+247,Kanoodle,2012 Hermina Drive,Thai,expensive,Manhattan,13:26,1.3,False
+248,Kazio,722 Golf Course Circle,Indian,medium,Astoria,20:44,0.8,True
+249,Yodoo,03 Sutherland Parkway,Indian,expensive,Greenwich Village,10:12,0.2,False
+250,Bubbletube,8 Memorial Parkway,Thai,expensive,Williamsburg,22:56,2.8,False
+251,Meemm,3 Columbus Place,Thai,cheap,Williamsburg,16:30,1.7,False
+252,Rhynoodle,52052 Randy Trail,Indian,expensive,Harlem,9:00,2.3,True
+253,Minyx,24 Hayes Street,Mediterranean,expensive,Astoria,14:05,1.0,True
+254,Feedfish,59 Raven Drive,Mediterranean,medium,Manhattan,16:13,2.4,True
+255,Eadel,866 Sutteridge Pass,Japanese,expensive,Williamsburg,12:58,1.3,True
+256,Meembee,56923 Westend Place,Italian,cheap,Manhattan,13:30,0.3,False
+257,Tagpad,91 Pleasure Court,Mexican,medium,Harlem,1:26,3.6,False
+258,Zoozzy,25 Russell Street,Mediterranean,expensive,Brooklyn,17:50,2.6,True
+259,Rhynyx,5219 Shelley Trail,Mediterranean,expensive,Queens,13:15,4.5,False
+260,Fivebridge,6077 Sauthoff Plaza,American,cheap,Staten Island,4:03,3.3,True
+261,Tagpad,01645 Kropf Lane,Mediterranean,cheap,Staten Island,16:57,0.2,True
+262,Muxo,05700 Glacier Hill Park,Chinese,expensive,Queens,0:28,0.9,False
+263,Oba,4 Elgar Park,Italian,cheap,Williamsburg,6:46,4.6,True
+264,Gabtype,02 Hermina Parkway,Chinese,expensive,Staten Island,22:16,4.3,False
+265,Livepath,50 Pawling Street,French,expensive,Williamsburg,23:52,3.7,False
+266,Realblab,7 Jenna Crossing,Thai,cheap,Queens,18:11,0.3,False
+267,Gevee,2232 Eggendart Center,Indian,expensive,Queens,2:10,1.1,False
+268,Feednation,7 Burning Wood Way,French,cheap,Harlem,23:00,0.4,False
+269,Roombo,49 Sundown Lane,Italian,expensive,Upper East Side,1:58,2.0,False
+270,Edgetag,09 Killdeer Drive,Mexican,cheap,Bronx,21:36,0.7,True
+271,Trilith,31748 Pearson Terrace,American,medium,Brooklyn,16:14,3.5,False
+272,Livepath,91 Linden Alley,Japanese,expensive,Harlem,21:14,3.7,False
+273,Yombu,7968 Elka Trail,American,medium,Astoria,23:53,2.3,False
+274,Kanoodle,838 Mendota Street,Japanese,cheap,Greenwich Village,16:25,4.0,True
+275,Livefish,31587 Eliot Center,Mexican,medium,Manhattan,5:36,3.5,True
+276,Nlounge,04 Hoepker Junction,Japanese,medium,Brooklyn,3:05,3.4,True
+277,Twimbo,3 Bluestem Pass,Indian,medium,Brooklyn,4:19,2.7,False
+278,Yoveo,05727 Hanson Point,Thai,expensive,Staten Island,13:47,1.6,True
+279,Zoomzone,6930 Hollow Ridge Center,French,expensive,Manhattan,13:34,2.8,True
+280,Edgeclub,456 Hoepker Pass,Japanese,medium,Queens,11:33,4.9,True
+281,Dabjam,973 School Circle,Thai,expensive,Staten Island,11:56,2.4,True
+282,Demivee,84 Delaware Court,Chinese,cheap,Astoria,12:59,3.9,True
+283,Dabfeed,20723 Oxford Way,Mediterranean,medium,Williamsburg,5:00,1.2,False
+284,Topdrive,86113 Becker Trail,Mexican,expensive,Astoria,16:42,4.9,False
+285,Jabberbean,98 Novick Point,American,expensive,Queens,14:15,0.6,True
+286,Quinu,1 Coleman Drive,Thai,cheap,Queens,19:39,4.0,False
+287,Mymm,83795 Clarendon Trail,Mexican,expensive,Queens,3:05,3.9,False
+288,Demimbu,751 Texas Trail,Italian,cheap,Harlem,16:42,1.4,True
+289,Brainlounge,16307 Orin Avenue,Chinese,medium,Bronx,12:10,4.9,False
+290,Dynabox,88 Florence Pass,Mexican,medium,Upper East Side,7:38,0.9,False
+291,Dablist,110 Dwight Terrace,Japanese,medium,Upper East Side,19:30,4.3,True
+292,Zooveo,43 Lukken Trail,Italian,expensive,Harlem,8:22,4.3,False
+293,Aimbu,8471 Clove Circle,Chinese,expensive,Bronx,5:54,3.6,True
+294,Flipopia,23 Katie Parkway,Japanese,expensive,Upper East Side,19:58,1.3,False
+295,Dynabox,466 Golf Drive,Mexican,medium,Manhattan,11:08,2.1,True
+296,Dynazzy,99164 Towne Plaza,Mexican,medium,Greenwich Village,8:06,3.7,True
+297,Thoughtbeat,2422 Westport Terrace,Mexican,cheap,Queens,1:23,2.4,True
+298,Jayo,977 Pennsylvania Street,Greek,expensive,Greenwich Village,17:17,1.7,True
+299,Wikizz,1122 Lotheville Road,Greek,expensive,Bronx,3:09,1.5,False
+300,Flipbug,87 Erie Terrace,American,cheap,Harlem,7:52,3.6,True
+301,Oyoba,5 Park Meadow Drive,Japanese,expensive,Staten Island,7:09,0.4,True
+302,Feedfire,36 Loomis Point,Greek,expensive,Upper East Side,15:50,2.6,True
+303,Topiclounge,88 Old Shore Circle,Mexican,cheap,Manhattan,16:47,1.2,False
+304,Podcat,0661 Fairfield Hill,Chinese,medium,Bronx,0:26,0.5,True
+305,Centizu,2 Rieder Point,Indian,cheap,Manhattan,12:39,4.5,True
+306,Realfire,591 Nancy Road,Mediterranean,expensive,Bronx,2:43,1.1,False
+307,Jetpulse,291 Loomis Pass,American,medium,Staten Island,5:14,3.2,False
+308,Skyble,32 Bowman Park,Mediterranean,medium,Manhattan,6:30,0.4,True
+309,Jaxworks,2492 Banding Park,Chinese,medium,Staten Island,7:52,4.8,False
+310,Agimba,246 Bayside Court,Greek,expensive,Staten Island,8:48,2.5,True
+311,Trunyx,90278 Clyde Gallagher Terrace,Thai,expensive,Upper East Side,13:04,0.4,False
+312,Realblab,0 7th Hill,Chinese,expensive,Williamsburg,15:09,4.7,False
+313,Centidel,822 Sycamore Pass,Mediterranean,expensive,Brooklyn,11:22,3.4,True
+314,Vidoo,107 Ruskin Way,Italian,medium,Bronx,17:55,0.6,False
+315,Babbleblab,7 Fuller Trail,Thai,medium,Upper East Side,18:07,0.4,False
+316,Tazz,000 Longview Drive,Chinese,expensive,Harlem,16:29,0.5,True
+317,Oyondu,53371 Mifflin Avenue,Greek,medium,Manhattan,17:51,4.5,True
+318,Divanoodle,94703 Golf View Crossing,Thai,cheap,Queens,9:36,1.0,False
+319,Edgeblab,6 Ryan Place,Indian,medium,Astoria,19:28,0.5,False
+320,Fadeo,3269 Briar Crest Way,Italian,medium,Harlem,21:58,4.6,True
+321,Blogtags,768 Farragut Way,Greek,expensive,Brooklyn,5:21,3.8,False
+322,Blognation,417 Express Plaza,Japanese,cheap,Queens,10:33,1.2,True
+323,Oyoloo,60 Northview Avenue,Japanese,expensive,Upper East Side,10:16,3.7,True
+324,Feedspan,9291 Continental Road,Indian,medium,Upper East Side,11:35,4.2,False
+325,Gabvine,70 Morrow Court,Japanese,cheap,Bronx,12:01,4.0,False
+326,Realmix,266 Loomis Park,Japanese,medium,Brooklyn,13:11,1.6,True
+327,Cogibox,8 Forest Dale Circle,Chinese,medium,Manhattan,4:56,4.5,False
+328,Babbleblab,7 Pankratz Trail,Greek,cheap,Astoria,21:11,2.7,True
+329,Katz,265 Caliangt Drive,Thai,cheap,Harlem,21:09,1.0,False
+330,Quimm,95 Spaight Junction,French,cheap,Queens,12:48,0.9,True
+331,Skivee,4517 Hoffman Drive,Greek,cheap,Astoria,18:32,3.4,False
+332,Thoughtstorm,90917 Lakewood Way,Mediterranean,medium,Manhattan,17:36,3.2,True
+333,Avaveo,4086 Grover Parkway,Mexican,expensive,Queens,7:01,3.6,True
+334,Wordware,2 Truax Crossing,Thai,expensive,Astoria,17:40,2.8,True
+335,Trilia,14549 Sage Avenue,Mediterranean,expensive,Williamsburg,6:58,4.0,True
+336,Feedbug,9826 Chive Place,Italian,medium,Manhattan,17:17,1.0,True
+337,Ailane,455 Crest Line Court,American,expensive,Staten Island,15:54,2.3,True
+338,Feedfire,228 Crowley Court,Greek,expensive,Greenwich Village,23:19,0.2,True
+339,Wordware,21 David Center,Italian,medium,Brooklyn,11:00,1.5,True
+340,Yambee,9181 Gateway Lane,Indian,cheap,Queens,16:35,0.8,False
+341,Riffpedia,826 Ryan Lane,Mexican,medium,Brooklyn,2:13,4.0,False
+342,Oodoo,0011 Gateway Center,Greek,cheap,Bronx,21:29,5.0,True
+343,Quinu,58 Muir Court,American,cheap,Staten Island,13:48,3.2,True
+344,Minyx,67443 Rigney Terrace,Thai,medium,Manhattan,22:20,1.2,True
+345,Oba,1 Sutteridge Avenue,Mexican,cheap,Williamsburg,21:00,4.4,False
+346,Jabberbean,25 Schmedeman Street,Mediterranean,medium,Williamsburg,16:05,0.0,True
+347,Janyx,5358 Fuller Point,Indian,expensive,Greenwich Village,4:33,4.3,True
+348,Yakitri,1904 Mandrake Avenue,Italian,medium,Greenwich Village,5:14,3.0,False
+349,Photobug,258 Loomis Avenue,American,cheap,Bronx,2:48,1.5,True
+350,Viva,537 Lighthouse Bay Trail,Mexican,medium,Queens,10:18,3.7,True
+351,Flashdog,03 Waxwing Drive,Indian,medium,Brooklyn,6:02,3.1,True
+352,Wikizz,538 Myrtle Hill,American,expensive,Queens,16:27,2.7,False
+353,Jabbersphere,33 Everett Crossing,French,cheap,Astoria,13:00,3.9,False
+354,Skyndu,8750 Florence Crossing,Italian,medium,Queens,11:35,2.0,True
+355,Devpoint,3 Moulton Alley,Indian,cheap,Queens,13:28,2.2,False
+356,Mymm,0 Daystar Plaza,Indian,cheap,Brooklyn,2:07,2.1,True
+357,Topicstorm,19 Caliangt Court,Thai,cheap,Greenwich Village,20:12,4.4,True
+358,Devshare,925 Dahle Way,American,medium,Upper East Side,9:08,0.5,True
+359,Ailane,4 Aberg Circle,American,cheap,Harlem,4:49,1.1,True
+360,Roombo,43 Milwaukee Alley,Japanese,expensive,Williamsburg,6:36,1.6,False
+361,Riffpedia,5 Raven Crossing,Mexican,cheap,Upper East Side,15:17,5.0,False
+362,Devify,3426 Gateway Plaza,Italian,medium,Queens,22:24,4.7,False
+363,Kwinu,0829 Menomonie Alley,Chinese,medium,Greenwich Village,17:08,2.5,False
+364,Trupe,4857 Fairfield Hill,Chinese,medium,Greenwich Village,20:13,0.7,False
+365,Topicstorm,06869 Waubesa Junction,Mexican,cheap,Harlem,3:39,4.4,True
+366,Meeveo,102 Daystar Plaza,American,medium,Staten Island,6:49,4.4,False
+367,Realblab,1 Autumn Leaf Drive,Italian,medium,Williamsburg,11:29,0.0,False
+368,Dablist,8049 Gulseth Center,Japanese,expensive,Harlem,17:42,0.7,False
+369,Yabox,6 Jay Junction,American,medium,Queens,22:38,0.5,False
+370,Tazz,2 Orin Point,French,cheap,Brooklyn,15:18,3.6,False
+371,Tagtune,456 Rockefeller Drive,Indian,cheap,Brooklyn,13:23,4.9,False
+372,Jabbersphere,80606 Jana Parkway,Chinese,cheap,Upper East Side,15:17,2.2,True
+373,Dynava,4 Fairfield Park,Thai,cheap,Upper East Side,18:01,1.3,False
+374,Browsedrive,4496 Waubesa Drive,Greek,medium,Staten Island,6:54,1.4,True
+375,Jabberbean,4 Buena Vista Court,Italian,expensive,Staten Island,16:00,4.8,False
+376,Teklist,6919 Maywood Pass,Mediterranean,expensive,Manhattan,8:38,3.0,True
+377,Quatz,779 Southridge Circle,Indian,cheap,Harlem,18:34,3.0,False
+378,Eire,5456 Hanover Junction,Mexican,medium,Staten Island,7:33,1.3,False
+379,Tagcat,264 Sachs Junction,Indian,expensive,Astoria,23:06,3.9,False
+380,Meeveo,201 Kingsford Hill,Chinese,expensive,Bronx,13:41,3.4,False
+381,Devbug,52 Village Green Pass,French,cheap,Upper East Side,21:12,2.0,False
+382,Youfeed,60 Monterey Park,French,cheap,Harlem,6:13,4.4,False
+383,Yodel,363 Waywood Road,Chinese,expensive,Greenwich Village,11:08,3.6,True
+384,Voolith,59867 Eagle Crest Lane,Mediterranean,cheap,Manhattan,13:05,2.8,False
+385,Dabshots,4 Heath Center,Mediterranean,cheap,Astoria,8:56,3.4,False
+386,Eayo,391 Magdeline Trail,Chinese,medium,Harlem,9:34,1.4,False
+387,Devpulse,5656 Kedzie Drive,American,expensive,Bronx,14:58,3.7,False
+388,Bubblebox,00572 Golf Course Lane,Greek,expensive,Astoria,19:23,3.2,False
+389,Innojam,0 Acker Trail,Japanese,medium,Astoria,23:58,0.1,False
+390,Mydo,763 Bunting Court,American,expensive,Williamsburg,8:29,3.2,True
+391,Yodel,84 Bellgrove Trail,Greek,expensive,Staten Island,16:46,4.3,True
+392,Browsedrive,98 Arkansas Trail,Japanese,medium,Williamsburg,16:21,3.2,True
+393,Twitterbeat,363 Manitowish Junction,Mexican,medium,Brooklyn,6:01,1.6,False
+394,Zoomlounge,2372 Lakewood Junction,Chinese,cheap,Queens,13:57,1.4,True
+395,Zooveo,86013 Banding Street,Mexican,medium,Greenwich Village,12:02,4.9,False
+396,Meejo,1090 American Road,Indian,cheap,Staten Island,2:09,1.2,True
+397,Shufflebeat,25367 Independence Crossing,Italian,cheap,Harlem,3:25,1.0,False
+398,Flashdog,16662 Mayer Terrace,Thai,expensive,Upper East Side,9:41,3.9,True
+399,Devshare,93 Sunnyside Street,Indian,cheap,Williamsburg,12:32,0.4,True
+400,Fanoodle,9078 Oriole Parkway,American,expensive,Astoria,5:41,0.4,False
+401,Meeveo,939 Northport Park,French,expensive,Williamsburg,0:06,2.4,True
+402,Meevee,9533 Loeprich Hill,Mexican,cheap,Brooklyn,17:01,1.5,True
+403,Zoomdog,0 Hoepker Way,Japanese,medium,Staten Island,4:50,2.3,True
+404,Youtags,94874 Talisman Parkway,Japanese,expensive,Queens,15:45,4.8,True
+405,Centizu,24 Hazelcrest Street,Mediterranean,expensive,Staten Island,17:53,2.6,True
+406,Feedfish,133 Maple Lane,Chinese,medium,Staten Island,19:53,0.2,True
+407,Meemm,136 Cordelia Park,Chinese,medium,Bronx,5:33,1.9,False
+408,Oba,517 Meadow Valley Park,Greek,expensive,Harlem,19:05,4.6,True
+409,Browseblab,97 Waubesa Alley,Greek,medium,Staten Island,11:37,2.0,False
+410,Babbleset,7 Twin Pines Road,Indian,cheap,Greenwich Village,3:09,2.0,False
+411,Nlounge,50 Elka Crossing,Mexican,cheap,Harlem,12:42,4.4,True
+412,Kwimbee,7 Fallview Pass,Mexican,medium,Manhattan,20:03,0.6,False
+413,Gevee,480 Vahlen Parkway,Chinese,expensive,Harlem,10:28,0.0,False
+414,Yabox,3 Bunker Hill Way,Mexican,medium,Queens,12:23,3.4,False
+415,Tazzy,5554 Esker Circle,Italian,expensive,Upper East Side,17:47,1.4,True
+416,Twinder,9 Myrtle Point,Mediterranean,expensive,Bronx,18:38,4.7,True
+417,Innojam,98333 Nevada Road,Mediterranean,medium,Greenwich Village,22:15,3.2,False
+418,Twitternation,5 Paget Circle,Chinese,expensive,Staten Island,13:36,2.6,False
+419,Dabjam,10292 2nd Street,Thai,cheap,Staten Island,10:02,0.5,True
+420,Eayo,9 Graceland Center,Italian,expensive,Queens,21:12,3.7,True
+421,Eadel,90 John Wall Point,American,medium,Queens,9:30,2.2,True
+422,Fivebridge,0 Lotheville Plaza,Thai,expensive,Harlem,14:19,2.1,False
+423,Livetube,54 Sutherland Court,Greek,medium,Harlem,5:17,4.4,True
+424,Twinte,67 Kipling Avenue,American,medium,Brooklyn,22:30,3.4,False
+425,Tagtune,0795 Clarendon Junction,Chinese,medium,Staten Island,11:57,4.6,False
+426,Roombo,545 Hovde Terrace,Thai,medium,Bronx,6:41,3.7,False
+427,Cogibox,47 Clyde Gallagher Alley,Mexican,medium,Queens,15:34,4.8,False
+428,Edgeify,95 Thompson Hill,Chinese,medium,Bronx,10:07,3.9,False
+429,Chatterpoint,06729 Rutledge Street,Indian,medium,Staten Island,18:06,4.8,True
+430,Viva,6 Bobwhite Street,Mediterranean,medium,Upper East Side,11:41,4.6,True
+431,Realcube,46357 South Hill,French,cheap,Queens,3:53,0.5,False
+432,Tanoodle,57691 Crowley Circle,French,cheap,Astoria,6:53,3.2,True
+433,Wordpedia,11151 Fair Oaks Way,Mediterranean,medium,Queens,22:06,1.8,False
+434,Edgewire,9827 Dryden Plaza,Italian,expensive,Greenwich Village,1:25,3.2,True
+435,Ailane,7693 Swallow Avenue,American,cheap,Staten Island,11:35,4.8,True
+436,Roodel,4053 Fordem Parkway,Chinese,cheap,Harlem,7:25,1.7,False
+437,Jayo,393 Village Place,Italian,cheap,Harlem,7:26,2.0,True
+438,Dabshots,95740 Eastlawn Crossing,Chinese,cheap,Staten Island,20:27,4.8,False
+439,Jabbertype,9083 Carpenter Point,Greek,cheap,Astoria,15:44,2.5,True
+440,Abata,319 Springs Plaza,Mediterranean,expensive,Harlem,6:03,4.8,True
+441,Mydo,43 Glacier Hill Terrace,Indian,medium,Upper East Side,18:21,4.0,False
+442,Thoughtstorm,629 Del Mar Park,Thai,cheap,Williamsburg,4:01,1.5,False
+443,Midel,3740 Laurel Pass,Greek,expensive,Staten Island,16:36,0.7,False
+444,Mymm,60 5th Terrace,Italian,medium,Staten Island,19:42,1.5,True
+445,Twinder,5524 Dovetail Plaza,Mexican,medium,Harlem,9:00,1.4,False
+446,Jetwire,80655 Stephen Trail,Mediterranean,cheap,Queens,1:09,0.5,False
+447,Twitternation,72868 Bobwhite Crossing,Indian,expensive,Manhattan,14:40,3.1,False
+448,Ntags,4 Gulseth Road,Thai,medium,Williamsburg,15:50,2.0,False
+449,Photobug,695 Del Sol Lane,Greek,expensive,Bronx,11:36,2.8,False
+450,Brightbean,35591 Fallview Drive,Mexican,medium,Harlem,19:19,4.7,True
+451,Tazz,1177 Kings Point,Mexican,expensive,Queens,12:07,4.3,False
+452,Cogidoo,2 Ryan Circle,Mexican,medium,Harlem,15:10,0.1,True
+453,Meevee,131 West Court,Thai,medium,Manhattan,20:30,3.8,False
+454,Plajo,27100 Mayfield Pass,Chinese,expensive,Bronx,12:54,3.8,False
+455,Yakijo,51491 Rigney Alley,Japanese,expensive,Staten Island,18:00,4.0,True
+456,Dabfeed,496 Marquette Parkway,Indian,medium,Williamsburg,22:35,1.0,True
+457,Aivee,8 Pearson Terrace,Chinese,cheap,Astoria,4:27,1.3,False
+458,Gabtune,6 Crowley Drive,Japanese,expensive,Astoria,23:12,4.4,True
+459,Eire,71328 John Wall Road,French,cheap,Bronx,8:55,4.3,True
+460,Devcast,684 Golf Road,Indian,medium,Greenwich Village,19:57,1.2,False
+461,Photobug,3 Delaware Way,Thai,expensive,Manhattan,17:57,4.8,False
+462,Oyondu,7336 Little Fleur Point,French,medium,Greenwich Village,5:01,0.9,False
+463,Babblestorm,05 Dennis Junction,Greek,cheap,Astoria,17:38,4.1,False
+464,Izio,2 Lindbergh Park,Mexican,cheap,Astoria,16:32,3.4,False
+465,Twimm,20881 Canary Pass,French,expensive,Harlem,11:29,2.2,False
+466,Abatz,0 Holy Cross Plaza,Italian,medium,Bronx,4:33,1.4,False
+467,Layo,52 Hermina Hill,Chinese,cheap,Harlem,5:02,3.7,False
+468,Dablist,11926 Glendale Alley,Thai,expensive,Williamsburg,14:34,1.2,False
+469,Zoonder,33 Ruskin Road,Greek,cheap,Greenwich Village,21:15,4.1,False
+470,Ainyx,693 Commercial Place,Thai,cheap,Upper East Side,19:00,4.8,False
+471,Twitternation,55831 Springs Pass,Chinese,cheap,Queens,0:28,1.3,False
+472,Linklinks,35171 Ilene Terrace,French,medium,Bronx,18:01,2.5,True
+473,Gigashots,54289 Bluejay Park,Mexican,cheap,Bronx,16:11,2.7,False
+474,Livetube,645 Homewood Place,Mexican,cheap,Bronx,4:22,1.2,True
+475,Fliptune,6 Leroy Way,Mediterranean,cheap,Bronx,2:19,3.5,False
+476,Twitternation,51 Forest Run Avenue,Indian,medium,Upper East Side,4:13,1.8,True
+477,Fanoodle,29409 Melvin Drive,Japanese,medium,Bronx,4:16,4.4,True
+478,Abata,755 Fair Oaks Center,Italian,cheap,Upper East Side,15:32,1.6,False
+479,Fadeo,179 Main Center,Chinese,medium,Upper East Side,19:39,3.5,True
+480,Muxo,2484 East Court,Japanese,medium,Queens,13:23,1.5,False
+481,Skidoo,4 Heath Drive,French,medium,Brooklyn,17:35,3.9,False
+482,Cogibox,7 Nancy Plaza,Chinese,medium,Brooklyn,10:02,1.7,False
+483,Twiyo,05617 Clemons Lane,Italian,medium,Staten Island,22:43,1.5,False
+484,Innojam,2745 Myrtle Drive,French,cheap,Astoria,3:11,4.9,False
+485,Photobug,6 David Trail,Greek,medium,Staten Island,23:45,2.0,False
+486,Meeveo,8 Dunning Center,Japanese,expensive,Brooklyn,19:34,4.4,True
+487,Zoomdog,166 Service Plaza,French,cheap,Queens,2:24,2.5,False
+488,Twitternation,6626 Rusk Plaza,Mexican,medium,Manhattan,7:27,3.7,False
+489,Meetz,0 Autumn Leaf Pass,American,expensive,Greenwich Village,2:09,3.2,True
+490,Zoovu,564 Lakewood Court,Italian,medium,Greenwich Village,18:33,1.4,False
+491,Oozz,0 Vahlen Street,Italian,expensive,Queens,10:44,4.6,True
+492,Kare,539 Harper Avenue,Mexican,medium,Queens,11:47,1.6,False
+493,Plajo,8 Butternut Alley,Indian,cheap,Manhattan,23:48,0.7,False
+494,Livefish,2 Spaight Lane,Greek,expensive,Bronx,16:45,3.9,True
+495,Leenti,6753 Clove Drive,Japanese,cheap,Harlem,20:20,1.3,False
+496,Jamia,90 Hoard Road,French,cheap,Brooklyn,18:41,2.8,True
+497,Thoughtstorm,8 Sunnyside Circle,Mexican,medium,Bronx,7:31,0.3,True
+498,Twiyo,9 Crownhardt Street,Thai,expensive,Staten Island,22:58,0.2,True
+499,Jabberstorm,4 Welch Drive,Greek,cheap,Brooklyn,18:54,0.9,True
+500,Thoughtworks,957 Service Plaza,Mediterranean,medium,Bronx,9:20,0.8,True
+501,Janyx,42 Green Ridge Trail,Mexican,medium,Harlem,19:42,4.9,False
+502,Roomm,2261 Lukken Pass,Indian,expensive,Bronx,15:31,0.8,False
+503,Youopia,86486 Waywood Circle,Greek,expensive,Manhattan,3:46,4.2,True
+504,Shufflester,23 Hermina Avenue,American,medium,Queens,23:37,2.6,True
+505,Wikizz,48 Vermont Court,French,expensive,Harlem,20:51,1.9,False
+506,Oyondu,663 Carioca Point,French,medium,Harlem,3:06,2.3,True
+507,Snaptags,981 Mcbride Junction,Italian,medium,Brooklyn,1:52,0.4,False
+508,Shuffletag,5 Boyd Junction,Italian,cheap,Queens,13:18,1.9,False
+509,Livetube,4 Rutledge Drive,Greek,cheap,Harlem,15:52,1.7,True
+510,Realcube,5 Nevada Place,Japanese,expensive,Harlem,1:47,4.3,False
+511,Thoughtmix,32 Wayridge Drive,American,expensive,Bronx,4:26,4.1,True
+512,Realbridge,4 Lakewood Junction,Japanese,expensive,Brooklyn,16:46,2.4,False
+513,Meezzy,874 8th Court,American,cheap,Manhattan,9:49,4.0,True
+514,Oyoloo,186 Monument Pass,Greek,medium,Brooklyn,5:11,3.8,True
+515,Vipe,21 Haas Park,Greek,cheap,Williamsburg,19:53,2.2,True
+516,Livetube,0929 Division Parkway,Mexican,cheap,Greenwich Village,2:05,1.1,True
+517,Viva,581 Farwell Alley,Indian,cheap,Brooklyn,10:55,3.6,True
+518,Zoonoodle,4251 Village Way,Italian,expensive,Bronx,7:25,4.4,True
+519,Kamba,1693 Holmberg Street,Thai,cheap,Bronx,19:33,0.7,False
+520,Kayveo,709 Mccormick Park,Chinese,expensive,Manhattan,13:19,3.7,False
+521,Jayo,7353 Quincy Park,Chinese,expensive,Bronx,14:48,0.0,False
+522,Yotz,023 Ohio Way,American,medium,Williamsburg,16:17,0.9,True
+523,Kazu,8876 Center Street,Mediterranean,expensive,Staten Island,13:38,0.3,False
+524,Twitternation,83023 Morning Point,Italian,medium,Williamsburg,7:48,0.4,True
+525,Youopia,611 Oneill Parkway,Italian,expensive,Staten Island,4:07,1.5,True
+526,Mydeo,8090 Saint Paul Place,Indian,expensive,Bronx,8:28,1.3,False
+527,Vitz,6 Dexter Alley,Mediterranean,cheap,Upper East Side,0:28,0.3,True
+528,Yacero,22 Bluestem Park,Italian,cheap,Queens,1:30,0.5,True
+529,Mydeo,9 Maple Wood Street,Chinese,cheap,Manhattan,20:07,2.7,False
+530,Feedfish,9538 Nelson Lane,Greek,cheap,Upper East Side,8:23,3.3,True
+531,Eayo,68426 Bowman Crossing,Mediterranean,medium,Brooklyn,15:16,3.2,False
+532,Omba,6 Summerview Lane,Thai,medium,Upper East Side,15:45,3.7,False
+533,Browsecat,26048 West Plaza,Mediterranean,medium,Harlem,11:10,2.7,True
+534,Ntag,4 Pleasure Trail,Indian,cheap,Queens,23:17,3.0,False
+535,Yotz,9 Talmadge Place,Italian,medium,Astoria,10:43,2.2,False
+536,Demizz,34 School Hill,Mexican,expensive,Greenwich Village,7:06,2.4,True
+537,Voomm,4 Schmedeman Park,Greek,expensive,Harlem,4:49,2.9,True
+538,Leexo,136 Morrow Road,Japanese,cheap,Brooklyn,0:14,1.8,True
+539,Gigashots,566 Cottonwood Way,Japanese,cheap,Upper East Side,11:10,2.2,True
+540,Tagtune,4949 Farragut Trail,Italian,medium,Brooklyn,5:00,1.9,False
+541,Zoomcast,138 Lakewood Gardens Center,French,medium,Astoria,20:21,2.6,True
+542,Einti,361 Melby Avenue,Greek,expensive,Harlem,3:22,3.5,True
+543,Leexo,1 Vernon Plaza,Italian,medium,Staten Island,16:09,3.1,True
+544,Dabshots,3462 Pleasure Circle,Thai,expensive,Queens,17:15,4.9,False
+545,Wikizz,023 Hudson Avenue,Greek,cheap,Astoria,23:06,2.8,False
+546,Shuffledrive,59084 Eagle Crest Court,Thai,medium,Astoria,1:46,4.1,True
+547,Katz,09250 Maywood Street,Chinese,cheap,Astoria,23:06,4.0,False
+548,Roombo,3480 Luster Center,Chinese,medium,Queens,23:47,0.4,False
+549,Bubblemix,32462 Brickson Park Point,Mediterranean,medium,Greenwich Village,2:15,2.6,True
+550,Fatz,53 Fremont Junction,French,cheap,Bronx,20:25,1.6,True
+551,Kare,02 Onsgard Way,Thai,expensive,Queens,4:18,3.8,False
+552,BlogXS,65443 Luster Road,Thai,medium,Manhattan,9:04,1.4,True
+553,Realblab,047 Claremont Place,Mexican,expensive,Harlem,23:38,4.7,True
+554,Eimbee,818 Emmet Terrace,Italian,expensive,Greenwich Village,9:03,1.3,False
+555,Skippad,9 Harbort Terrace,American,medium,Greenwich Village,1:29,2.4,False
+556,Jabbercube,45431 Kensington Way,Italian,cheap,Brooklyn,7:38,3.6,True
+557,Demivee,1 Nova Circle,Thai,medium,Manhattan,13:45,3.0,False
+558,Gigabox,518 Schlimgen Junction,American,expensive,Upper East Side,11:32,4.2,True
+559,Dabshots,17048 Coolidge Pass,Greek,cheap,Williamsburg,20:30,3.6,False
+560,Dynava,9 Wayridge Way,American,expensive,Queens,12:37,3.1,False
+561,Youfeed,2187 Prairieview Plaza,Italian,expensive,Manhattan,1:16,3.9,False
+562,Babbleopia,73 Redwing Park,Greek,cheap,Astoria,15:25,0.6,True
+563,Topicshots,684 Vahlen Circle,Indian,expensive,Queens,11:02,3.1,True
+564,Demimbu,6 Sachs Trail,Italian,expensive,Astoria,20:00,3.7,False
+565,Cogidoo,3 Maryland Drive,Mexican,medium,Manhattan,19:40,0.3,False
+566,Jaxnation,7 Grasskamp Circle,Italian,cheap,Bronx,7:44,3.3,True
+567,Mycat,209 Lakeland Point,Mexican,expensive,Brooklyn,19:39,0.1,True
+568,Feednation,6 Knutson Trail,Japanese,cheap,Manhattan,9:37,4.4,False
+569,Dabvine,047 Laurel Way,French,medium,Greenwich Village,7:15,4.7,True
+570,Thoughtstorm,1 Larry Place,Italian,cheap,Harlem,4:43,0.5,False
+571,Tagfeed,35 Heffernan Hill,Indian,medium,Staten Island,6:43,0.2,False
+572,Twitterlist,04639 High Crossing Alley,Japanese,medium,Manhattan,14:08,1.7,False
+573,Voolith,5147 Sachtjen Junction,Mediterranean,cheap,Staten Island,3:35,2.3,False
+574,Trupe,416 American Place,Mediterranean,medium,Williamsburg,22:47,0.8,False
+575,Browsetype,62 Victoria Place,Mediterranean,expensive,Staten Island,7:25,1.9,True
+576,Yamia,3132 Graceland Avenue,Indian,cheap,Astoria,6:39,5.0,False
+577,Fivechat,0823 Vidon Trail,Indian,cheap,Greenwich Village,5:13,1.5,True
+578,Voomm,9 Katie Avenue,Indian,expensive,Harlem,3:30,4.9,True
+579,Skimia,16 Hazelcrest Street,French,cheap,Queens,20:40,1.7,True
+580,Fivechat,92 Ridgeview Circle,Indian,medium,Bronx,12:44,5.0,False
+581,Skiptube,17826 Oneill Pass,Japanese,expensive,Staten Island,9:56,3.1,True
+582,Riffwire,4767 Thackeray Plaza,French,expensive,Harlem,22:04,2.7,True
+583,Skinte,40 Hallows Way,Greek,cheap,Astoria,10:11,3.0,True
+584,Digitube,6953 Pond Trail,French,cheap,Queens,13:18,3.7,False
+585,Avamba,84634 Meadow Vale Circle,Greek,expensive,Astoria,21:53,3.9,False
+586,Voonte,6 Mifflin Trail,Mexican,medium,Bronx,21:59,4.9,False
+587,Bubblemix,44 Clove Lane,Indian,medium,Upper East Side,3:24,1.1,False
+588,Trudoo,03 Farmco Place,Greek,expensive,Astoria,4:26,2.6,False
+589,Oloo,3 Tennessee Street,Mexican,medium,Williamsburg,14:20,0.5,True
+590,Edgeblab,8 Dapin Hill,American,cheap,Queens,19:42,0.9,True
+591,Eadel,6 Morrow Point,Thai,expensive,Queens,6:01,1.1,False
+592,Camido,7025 Bluejay Plaza,Indian,expensive,Brooklyn,4:44,4.4,False
+593,Demivee,540 Londonderry Circle,Italian,cheap,Astoria,16:55,1.0,False
+594,Avamm,7545 Stephen Center,Mexican,medium,Williamsburg,7:15,1.8,True
+595,Photolist,7690 Waywood Court,Chinese,expensive,Staten Island,11:14,4.7,True
+596,Jaxworks,72899 Moose Trail,Italian,expensive,Manhattan,4:51,2.5,False
+597,Oyonder,1470 Loftsgordon Way,French,cheap,Astoria,0:47,0.2,False
+598,Ntags,79152 Moulton Court,Japanese,expensive,Williamsburg,16:40,1.0,True
+599,Zoovu,26 Village Trail,Chinese,expensive,Bronx,21:10,0.3,False
+600,Twitternation,533 Stone Corner Pass,Mediterranean,medium,Upper East Side,12:00,0.6,True
+601,Kamba,73 Kennedy Parkway,Greek,medium,Greenwich Village,14:51,5.0,False
+602,Demizz,6576 Myrtle Point,Greek,cheap,Greenwich Village,5:01,0.6,True
+603,Blogspan,87147 Dawn Alley,Italian,expensive,Astoria,23:05,2.8,False
+604,Yombu,117 Goodland Circle,Japanese,cheap,Queens,17:08,1.5,True
+605,Photofeed,8427 Mallard Lane,Chinese,expensive,Manhattan,16:58,0.6,False
+606,Browsebug,58151 Warrior Center,Mediterranean,medium,Manhattan,3:19,4.8,False
+607,Browsedrive,9 Schmedeman Lane,Thai,expensive,Staten Island,15:51,2.8,False
+608,Pixope,1 Kim Way,Japanese,expensive,Brooklyn,11:28,0.6,False
+609,Yamia,3764 Division Drive,Mexican,expensive,Williamsburg,18:30,4.0,False
+610,Agimba,2 Pearson Trail,Chinese,medium,Upper East Side,19:58,3.8,False
+611,Jaxworks,98 Saint Paul Hill,Mexican,cheap,Manhattan,14:25,4.0,True
+612,Ailane,25902 Magdeline Circle,Chinese,expensive,Greenwich Village,10:59,0.3,False
+613,Fivechat,144 Debs Way,Japanese,cheap,Brooklyn,13:47,0.0,True
+614,Skiptube,8481 Mariners Cove Avenue,Thai,cheap,Queens,17:49,1.5,True
+615,Thoughtbeat,5 Carberry Trail,Indian,cheap,Astoria,10:31,2.8,False
+616,Wikido,366 Waxwing Circle,Mexican,medium,Manhattan,1:18,1.1,False
+617,Flashspan,305 Browning Crossing,American,cheap,Harlem,7:01,3.0,True
+618,Cogidoo,9354 Moose Terrace,Italian,expensive,Williamsburg,15:52,3.7,True
+619,Tavu,02173 Kensington Crossing,Indian,cheap,Brooklyn,10:39,2.9,False
+620,Skiptube,2 Paget Parkway,Mexican,expensive,Queens,16:09,3.3,True
+621,Vipe,702 Transport Circle,Japanese,expensive,Queens,12:46,3.7,False
+622,Gabtune,0800 Delladonna Plaza,Thai,medium,Williamsburg,9:55,0.9,False
+623,Yadel,18 Memorial Court,Indian,expensive,Staten Island,4:16,3.7,False
+624,Twitterbridge,608 Melrose Place,Mediterranean,expensive,Staten Island,11:03,2.2,False
+625,Meevee,36418 Pierstorff Lane,Indian,expensive,Brooklyn,4:04,1.9,False
+626,Abatz,6881 Kipling Lane,Japanese,expensive,Harlem,13:01,0.1,False
+627,Feedspan,642 Pond Court,Indian,cheap,Harlem,2:56,2.3,False
+628,Digitube,76682 Heffernan Street,Thai,cheap,Bronx,9:55,4.9,False
+629,Flashpoint,6826 Washington Avenue,Mediterranean,expensive,Upper East Side,4:26,0.8,True
+630,Oba,793 Dovetail Hill,Italian,cheap,Manhattan,20:37,0.4,True
+631,Eare,0118 Crownhardt Street,Indian,cheap,Queens,11:18,3.9,False
+632,Tazz,9655 Maryland Circle,Japanese,expensive,Manhattan,4:33,1.7,False
+633,Zooxo,299 Valley Edge Terrace,Mediterranean,cheap,Manhattan,10:22,1.7,False
+634,Voonder,2203 Northwestern Place,Japanese,cheap,Williamsburg,13:16,4.5,True
+635,Teklist,91 Westport Center,Thai,cheap,Bronx,22:53,4.9,True
+636,Vimbo,5 Golf Course Alley,Indian,cheap,Brooklyn,8:44,4.4,False
+637,Ailane,9990 Dovetail Circle,Indian,expensive,Staten Island,0:22,2.4,False
+638,Aibox,8946 Linden Circle,American,medium,Greenwich Village,22:19,2.3,True
+639,Babbleblab,9 Kinsman Junction,Mexican,cheap,Greenwich Village,7:14,4.8,False
+640,Gigaclub,422 South Avenue,Greek,expensive,Harlem,17:46,1.6,True
+641,Ainyx,6073 Spaight Pass,Japanese,medium,Williamsburg,19:31,2.2,True
+642,Tagchat,004 Bowman Court,Thai,cheap,Manhattan,11:37,2.4,True
+643,Brainverse,67 Birchwood Pass,American,cheap,Queens,10:54,1.9,True
+644,Buzzster,41 School Alley,Mexican,cheap,Manhattan,4:27,5.0,True
+645,Buzzbean,3633 Doe Crossing Crossing,Mediterranean,medium,Astoria,11:23,1.7,False
+646,Aimbu,60064 Old Gate Parkway,French,cheap,Bronx,8:12,2.5,False
+647,Gabtype,8813 Ridgeway Center,Thai,expensive,Williamsburg,4:26,0.5,False
+648,Rhynyx,0740 Schiller Point,Mediterranean,expensive,Queens,3:41,0.8,True
+649,Twinte,58 Shasta Way,Japanese,cheap,Staten Island,18:53,1.1,False
+650,Edgeclub,08 Everett Junction,Greek,cheap,Manhattan,6:02,1.6,True
+651,Dynabox,80642 Bonner Trail,French,medium,Manhattan,5:25,2.3,True
+652,Flashset,55067 Lien Way,Italian,expensive,Upper East Side,8:07,2.9,True
+653,Trilia,743 Melody Circle,Chinese,expensive,Astoria,8:52,0.9,True
+654,Rhyzio,51 Paget Junction,Mediterranean,cheap,Brooklyn,6:58,1.7,False
+655,Plambee,35591 Northport Avenue,Greek,cheap,Manhattan,18:41,2.8,True
+656,Bubbletube,54856 Dayton Trail,Mediterranean,expensive,Manhattan,16:09,4.8,True
+657,Devcast,14487 Graceland Parkway,Greek,expensive,Brooklyn,21:23,1.7,True
+658,Meevee,6 Pepper Wood Court,Japanese,medium,Greenwich Village,1:16,2.8,True
+659,Trupe,1 Duke Court,Mediterranean,expensive,Queens,5:39,3.8,True
+660,Brainbox,216 Beilfuss Way,Italian,cheap,Williamsburg,18:57,0.1,True
+661,Roomm,3778 Burrows Circle,Mediterranean,medium,Bronx,7:19,1.1,True
+662,Zoomlounge,09110 Aberg Place,Indian,medium,Staten Island,15:00,4.1,False
+663,Yozio,6000 Lighthouse Bay Crossing,Chinese,expensive,Greenwich Village,9:56,1.3,False
+664,Trupe,0069 Lerdahl Crossing,French,cheap,Williamsburg,5:06,0.1,True
+665,Zazio,683 Brown Drive,American,cheap,Bronx,21:27,2.6,True
+666,Eidel,089 Vahlen Circle,Japanese,cheap,Astoria,20:46,4.4,True
+667,Tagcat,10073 Sutteridge Trail,Japanese,expensive,Astoria,2:46,0.3,False
+668,Mymm,2230 6th Park,Indian,cheap,Manhattan,11:27,1.5,True
+669,Livepath,2 Dapin Crossing,French,expensive,Staten Island,8:43,4.9,False
+670,Flipopia,17225 Eagan Avenue,Italian,medium,Staten Island,8:32,1.9,False
+671,Browsebug,6 Meadow Valley Drive,Indian,expensive,Queens,23:19,0.0,False
+672,Flipbug,7 David Pass,Japanese,medium,Brooklyn,4:50,2.3,False
+673,Chatterpoint,2 Lunder Plaza,French,medium,Queens,11:20,2.6,True
+674,Riffpedia,48014 Eagle Crest Trail,Chinese,cheap,Upper East Side,12:17,4.3,True
+675,Cogilith,2250 Westport Alley,Thai,cheap,Greenwich Village,22:11,1.2,True
+676,Browseblab,10 Clarendon Crossing,French,expensive,Upper East Side,2:00,1.0,False
+677,Avamm,1 Ramsey Street,French,expensive,Staten Island,18:52,4.5,True
+678,Ainyx,6 Maywood Trail,Chinese,medium,Williamsburg,19:01,1.7,False
+679,Flashdog,44 Butternut Place,Thai,cheap,Queens,9:40,0.2,True
+680,Dynabox,3 Rusk Alley,French,medium,Bronx,22:33,0.6,True
+681,Innotype,9110 Manitowish Avenue,French,expensive,Queens,1:19,4.5,False
+682,Blogpad,0507 Golf View Place,Japanese,expensive,Queens,3:17,4.1,True
+683,Quimm,22774 Fordem Way,Indian,expensive,Williamsburg,6:00,0.9,False
+684,Browsezoom,52 Chive Parkway,Thai,medium,Upper East Side,13:26,0.7,True
+685,Skinix,693 Corben Road,Mexican,medium,Greenwich Village,9:45,4.6,False
+686,Mydeo,429 Glendale Lane,Italian,cheap,Bronx,14:03,2.9,False
+687,Edgeblab,3 Lerdahl Circle,Japanese,medium,Bronx,1:54,2.8,False
+688,Ozu,4 Declaration Center,Italian,medium,Queens,21:41,2.5,False
+689,Demimbu,946 Debra Road,Indian,expensive,Harlem,6:42,4.7,False
+690,Voomm,9119 Darwin Alley,Italian,expensive,Astoria,22:25,3.4,False
+691,Topicstorm,47 Calypso Lane,Indian,medium,Queens,13:53,0.7,True
+692,Buzzbean,2077 Blackbird Plaza,Italian,expensive,Greenwich Village,20:39,2.0,False
+693,Zoomcast,43 Division Lane,Thai,expensive,Bronx,22:57,3.1,False
+694,Browsetype,3 Blue Bill Park Plaza,Mexican,medium,Queens,0:48,3.0,False
+695,LiveZ,464 Waywood Pass,Mexican,medium,Harlem,12:25,0.5,True
+696,Thoughtstorm,0810 Lotheville Junction,Italian,expensive,Williamsburg,9:03,2.0,False
+697,Gigazoom,4 Arrowood Crossing,Indian,expensive,Bronx,18:51,2.9,False
+698,Npath,098 Norway Maple Junction,Mediterranean,expensive,Upper East Side,16:39,2.1,False
+699,Miboo,8 Summerview Pass,Mexican,medium,Greenwich Village,22:16,4.9,True
+700,Eimbee,4888 Merrick Court,Thai,cheap,Astoria,3:14,2.7,False
+701,Browsedrive,427 Bowman Way,French,medium,Williamsburg,6:27,2.5,True
+702,Flipbug,66937 Coolidge Street,Indian,expensive,Staten Island,17:07,4.4,False
+703,Mybuzz,952 Dakota Circle,French,cheap,Staten Island,9:29,1.6,True
+704,Tagfeed,1 Marquette Street,Mexican,expensive,Staten Island,15:26,3.4,True
+705,Linklinks,452 Hoffman Alley,Italian,medium,Williamsburg,7:09,3.0,False
+706,Minyx,27626 Roth Alley,Mediterranean,medium,Bronx,23:42,1.4,True
+707,Voonte,21 Vidon Parkway,Greek,cheap,Astoria,20:30,2.8,False
+708,Topicware,70294 Barby Road,French,medium,Astoria,6:33,3.3,False
+709,Skyndu,663 Jenna Court,Indian,medium,Brooklyn,13:39,4.1,True
+710,Topicshots,08107 Ridge Oak Lane,Chinese,cheap,Brooklyn,15:20,4.2,True
+711,Trilia,6305 Barby Center,French,cheap,Manhattan,12:08,4.6,False
+712,Gabtype,7178 Ohio Circle,Chinese,expensive,Harlem,16:58,4.3,False
+713,Flashspan,51942 Nova Avenue,Mediterranean,expensive,Greenwich Village,4:50,0.4,True
+714,Bubblebox,6521 Fuller Court,Mexican,expensive,Upper East Side,11:26,0.1,True
+715,Agimba,62937 Little Fleur Crossing,Japanese,cheap,Queens,1:39,3.5,True
+716,Oyoloo,9200 7th Junction,Japanese,medium,Upper East Side,3:34,0.3,True
+717,Jaxbean,348 Monterey Street,Greek,medium,Astoria,19:30,3.3,False
+718,Realbuzz,77477 Union Circle,French,medium,Manhattan,7:02,0.8,True
+719,Eire,8569 Steensland Drive,American,expensive,Upper East Side,15:02,2.2,True
+720,Dabjam,144 Mifflin Pass,Chinese,medium,Bronx,13:22,5.0,True
+721,Skyvu,4 Glacier Hill Terrace,Thai,cheap,Greenwich Village,8:33,0.8,True
+722,Twitterworks,634 Colorado Way,French,cheap,Manhattan,17:51,4.6,True
+723,Skibox,82427 Northland Road,Mexican,cheap,Queens,15:30,2.6,True
+724,Fiveclub,8 Banding Road,American,cheap,Williamsburg,18:27,4.6,False
+725,Browsedrive,5939 Algoma Place,French,medium,Upper East Side,5:38,3.7,False
+726,Reallinks,55697 Forster Alley,Italian,cheap,Queens,8:12,2.4,False
+727,Trudoo,04 Pleasure Avenue,Mexican,cheap,Harlem,15:40,0.7,True
+728,Roodel,320 American Plaza,Chinese,cheap,Greenwich Village,6:18,0.5,True
+729,Thoughtstorm,1417 Onsgard Drive,Italian,medium,Williamsburg,11:47,3.9,False
+730,Mynte,26966 Main Junction,Mexican,medium,Queens,13:46,4.6,True
+731,Yodel,9 Dovetail Circle,French,cheap,Greenwich Village,3:59,0.3,True
+732,Wordtune,7167 Pond Parkway,Japanese,medium,Brooklyn,1:41,4.2,False
+733,Flipstorm,90 Northwestern Road,Mediterranean,medium,Greenwich Village,4:00,0.3,True
+734,Zoonder,5732 Kim Street,American,cheap,Harlem,6:44,3.8,True
+735,Oyondu,057 Warner Place,Thai,cheap,Greenwich Village,13:11,1.1,False
+736,Divanoodle,5 Tony Trail,Italian,cheap,Williamsburg,1:56,2.5,True
+737,Kare,10 Judy Park,Japanese,expensive,Manhattan,2:52,4.0,True
+738,Tagfeed,23228 Everett Street,Indian,cheap,Astoria,20:57,0.4,False
+739,Kwideo,2 Heffernan Drive,Mediterranean,cheap,Williamsburg,2:44,3.1,True
+740,Youspan,18903 Loomis Pass,Thai,cheap,Williamsburg,9:56,0.6,False
+741,Mydo,147 Swallow Trail,Mexican,cheap,Greenwich Village,10:20,3.7,True
+742,Riffwire,8 Park Meadow Way,Greek,medium,Astoria,1:20,2.5,True
+743,Rooxo,82 Sunnyside Terrace,Greek,expensive,Staten Island,18:46,3.8,True
+744,Edgepulse,3 Thierer Road,American,cheap,Queens,18:05,1.4,True
+745,Kanoodle,5 Ilene Plaza,French,medium,Queens,7:21,4.4,True
+746,Lajo,178 Leroy Center,Chinese,cheap,Bronx,7:46,1.9,True
+747,Jetpulse,048 High Crossing Crossing,Greek,medium,Manhattan,15:18,3.7,False
+748,Izio,4268 Golf View Point,French,expensive,Bronx,16:43,0.4,False
+749,Tagchat,3063 Vera Parkway,Japanese,medium,Staten Island,6:44,4.5,True
+750,Brainverse,4228 South Drive,Chinese,medium,Bronx,14:03,2.4,False
+751,Demivee,06079 Browning Street,Mexican,medium,Upper East Side,11:41,4.9,False
+752,Skidoo,311 Claremont Avenue,Chinese,medium,Brooklyn,8:33,0.9,False
+753,Meezzy,6 Division Place,Italian,expensive,Astoria,13:47,0.5,True
+754,Flashset,14 Harper Alley,Chinese,expensive,Williamsburg,19:45,3.9,True
+755,Gigaclub,3 Northwestern Crossing,Mediterranean,expensive,Astoria,23:48,3.5,False
+756,Cogibox,2236 Fairview Junction,Italian,cheap,Harlem,12:10,2.5,True
+757,Jayo,995 Thompson Street,American,expensive,Bronx,5:14,0.5,True
+758,Dynazzy,14 Pine View Terrace,American,cheap,Staten Island,7:14,2.5,False
+759,Gigashots,2940 Shoshone Street,American,medium,Manhattan,14:54,3.7,True
+760,Oba,996 Park Meadow Road,Japanese,medium,Astoria,14:07,3.0,False
+761,Trunyx,69 Center Drive,Thai,expensive,Williamsburg,7:38,1.0,False
+762,Leenti,79430 Sommers Lane,Mediterranean,cheap,Queens,5:09,1.2,False
+763,Zoovu,413 Twin Pines Park,Japanese,cheap,Williamsburg,20:39,4.5,False
+764,Eayo,1 Pankratz Street,Italian,medium,Upper East Side,3:50,2.8,True
+765,Tazzy,9 Birchwood Road,Indian,expensive,Greenwich Village,22:13,2.3,True
+766,Bluejam,024 Delaware Trail,American,cheap,Bronx,1:25,1.3,False
+767,Thoughtsphere,26656 Warrior Court,Thai,medium,Harlem,4:49,3.9,True
+768,Lazz,7 Beilfuss Way,Chinese,cheap,Greenwich Village,11:07,2.2,False
+769,Ailane,993 Monument Street,French,cheap,Bronx,10:41,1.4,True
+770,Zoombox,072 Division Center,Indian,cheap,Bronx,6:03,1.7,True
+771,Twimm,1442 Mallard Junction,Thai,medium,Upper East Side,2:33,4.0,True
+772,Yodoo,4065 Birchwood Place,French,medium,Harlem,3:14,1.1,False
+773,Jaxworks,910 Monument Crossing,Thai,cheap,Bronx,10:33,4.5,True
+774,Zoomdog,22 Susan Parkway,Chinese,expensive,Queens,10:25,1.8,False
+775,Riffwire,1436 Carioca Lane,American,medium,Staten Island,6:24,2.4,True
+776,Eamia,8922 Hooker Crossing,Indian,cheap,Williamsburg,2:17,3.5,False
+777,Cogilith,3 Waywood Alley,French,medium,Queens,16:03,4.3,True
+778,Omba,536 Maple Hill,Mexican,medium,Upper East Side,19:18,1.7,True
+779,Eadel,3893 Kipling Park,Thai,expensive,Harlem,11:29,1.9,True
+780,Browseblab,0 Washington Way,Greek,cheap,Upper East Side,15:43,4.0,False
+781,Meemm,389 Moland Plaza,Mexican,medium,Upper East Side,10:16,3.2,False
+782,Quimba,2887 Monument Hill,Italian,expensive,Queens,16:09,3.9,True
+783,Wikizz,7 Monument Junction,Japanese,cheap,Manhattan,5:43,4.5,False
+784,Twitternation,89193 Maple Wood Trail,Mexican,medium,Astoria,3:41,0.7,False
+785,Plajo,7 Northfield Lane,Japanese,cheap,Greenwich Village,16:26,0.9,True
+786,Oyonder,7 Hansons Park,Indian,cheap,Queens,22:32,1.5,False
+787,Jayo,861 Bayside Road,Japanese,medium,Bronx,20:32,2.2,False
+788,Zoonoodle,3 Cambridge Lane,American,expensive,Greenwich Village,21:28,1.2,False
+789,Gabvine,44 Coleman Trail,Thai,medium,Staten Island,18:20,4.6,False
+790,Skaboo,27 Fairview Lane,Thai,expensive,Williamsburg,18:47,4.8,True
+791,Demizz,590 Spohn Terrace,Thai,medium,Harlem,16:34,4.0,True
+792,Buzzshare,53083 Atwood Plaza,Mediterranean,medium,Astoria,16:58,1.0,True
+793,Eamia,911 Briar Crest Park,Chinese,medium,Manhattan,0:45,1.5,True
+794,Jabbercube,81 Dahle Circle,Chinese,expensive,Williamsburg,3:25,0.3,False
+795,Roodel,9757 Bowman Circle,Chinese,cheap,Williamsburg,15:15,1.6,True
+796,Rhybox,0 Donald Terrace,Greek,cheap,Astoria,8:36,2.1,False
+797,Dabvine,93288 Sutteridge Hill,French,cheap,Greenwich Village,8:06,0.3,False
+798,Bluejam,9 Granby Center,Chinese,medium,Brooklyn,11:34,4.4,False
+799,Mycat,18 Rigney Terrace,American,cheap,Greenwich Village,3:01,4.5,True
+800,Wordtune,1741 Esch Place,Indian,expensive,Harlem,13:05,0.4,False
+801,Oloo,49839 Village Street,Mediterranean,expensive,Bronx,10:20,2.7,False
+802,Flipstorm,28 Eastwood Drive,Mexican,expensive,Manhattan,11:25,0.4,False
+803,Aimbo,3000 Mcbride Crossing,Mexican,medium,Upper East Side,10:18,1.0,True
+804,Browsetype,467 Morning Pass,Mexican,medium,Upper East Side,11:54,4.9,False
+805,Linkbuzz,1 Paget Parkway,Japanese,expensive,Brooklyn,3:14,0.9,False
+806,Kwimbee,40907 Bowman Alley,Indian,expensive,Greenwich Village,15:55,3.3,True
+807,Innotype,9 Sycamore Terrace,Chinese,cheap,Williamsburg,20:48,4.4,True
+808,Linkbuzz,262 Oxford Avenue,French,cheap,Manhattan,12:55,0.6,True
+809,Yodel,3 Westend Terrace,Italian,expensive,Manhattan,6:30,3.1,False
+810,Yacero,1 Grim Road,Japanese,cheap,Harlem,17:58,1.9,True
+811,Buzzshare,3 Bay Place,Indian,medium,Williamsburg,10:31,1.6,False
+812,Feedfish,3794 Quincy Drive,Mediterranean,cheap,Williamsburg,4:33,0.7,False
+813,Agimba,165 Forster Drive,Italian,cheap,Astoria,10:11,2.6,False
+814,Tambee,0 Clarendon Hill,Italian,medium,Queens,2:45,1.6,False
+815,Devcast,5 Mayfield Park,American,cheap,Upper East Side,7:41,2.9,True
+816,Minyx,78792 Darwin Plaza,American,expensive,Upper East Side,20:36,4.8,False
+817,Jabbercube,2 Grover Park,French,expensive,Harlem,7:54,2.8,True
+818,Photobean,01792 Hayes Center,Greek,expensive,Manhattan,16:24,4.0,False
+819,Tambee,1 1st Junction,Thai,expensive,Upper East Side,11:49,3.6,False
+820,Thoughtstorm,33 Graceland Place,Chinese,expensive,Astoria,17:31,4.2,False
+821,Jabberstorm,3955 Jenifer Parkway,Greek,cheap,Harlem,7:45,1.3,False
+822,Tagfeed,0 Towne Center,French,expensive,Bronx,22:56,1.1,True
+823,Agivu,9403 Colorado Center,Chinese,medium,Upper East Side,5:02,4.5,True
+824,Trunyx,83627 Heath Trail,Italian,expensive,Manhattan,6:27,4.4,True
+825,Fiveclub,475 Mayer Center,Chinese,cheap,Williamsburg,20:14,2.4,False
+826,Jatri,579 Pankratz Crossing,Italian,medium,Queens,21:54,5.0,True
+827,Feedbug,033 Golf Center,Chinese,medium,Astoria,16:03,0.4,False
+828,Skipfire,6119 Hallows Alley,Italian,cheap,Greenwich Village,20:08,0.4,False
+829,Tanoodle,4 Sauthoff Way,Greek,medium,Greenwich Village,7:02,0.3,True
+830,Realcube,5920 Prairie Rose Court,Italian,cheap,Staten Island,18:59,0.3,False
+831,Photobean,0 Everett Park,Thai,medium,Manhattan,7:31,0.6,False
+832,Plambee,539 Vernon Drive,Thai,expensive,Bronx,19:03,0.9,True
+833,Edgepulse,825 Debra Way,Indian,expensive,Brooklyn,22:28,0.3,False
+834,Plambee,21 Waubesa Terrace,Mediterranean,expensive,Astoria,18:11,2.1,False
+835,Flipbug,844 Kingsford Place,Italian,medium,Greenwich Village,8:59,0.6,False
+836,Realpoint,9238 Farwell Drive,Thai,expensive,Queens,22:58,0.5,False
+837,Midel,57654 Barby Parkway,Japanese,medium,Greenwich Village,18:43,4.7,False
+838,Babblestorm,96 Sugar Circle,Italian,medium,Brooklyn,16:22,1.9,False
+839,Jabbercube,5650 Harbort Drive,American,expensive,Staten Island,17:59,4.2,True
+840,Kwinu,62701 Swallow Avenue,Greek,cheap,Bronx,8:00,3.1,True
+841,Fiveclub,44 Debra Crossing,American,medium,Brooklyn,11:15,1.6,False
+842,Bluejam,73477 Red Cloud Place,Mexican,medium,Manhattan,15:45,2.8,False
+843,Yotz,6 Grover Trail,Chinese,medium,Queens,3:14,1.0,True
+844,Jetwire,70 Almo Trail,Greek,cheap,Williamsburg,22:59,3.8,False
+845,Livepath,4 North Way,Japanese,expensive,Bronx,20:03,0.9,True
+846,Fiveclub,37 Spenser Terrace,Greek,cheap,Brooklyn,17:15,4.2,True
+847,Nlounge,55 Pankratz Center,Greek,medium,Staten Island,19:36,2.0,True
+848,Livetube,2 Union Pass,Mediterranean,cheap,Astoria,17:56,4.8,True
+849,Nlounge,902 Aberg Crossing,Indian,expensive,Astoria,18:40,1.7,False
+850,Quatz,125 Iowa Plaza,Greek,cheap,Greenwich Village,19:45,3.0,False
+851,Ntags,804 Everett Avenue,Indian,expensive,Bronx,9:57,3.6,True
+852,Trupe,02 International Park,Japanese,medium,Queens,1:55,1.5,True
+853,Dabvine,63561 Little Fleur Road,Mexican,expensive,Brooklyn,4:34,3.0,False
+854,Jayo,1416 Thackeray Hill,French,cheap,Manhattan,1:27,1.1,True
+855,Gigaclub,24196 Montana Way,Thai,cheap,Bronx,1:40,1.8,True
+856,Midel,2 Sycamore Road,Greek,expensive,Staten Island,22:41,2.6,True
+857,Rhynyx,0 Algoma Parkway,Chinese,expensive,Williamsburg,9:30,0.9,True
+858,Meevee,47 Nancy Pass,Thai,cheap,Williamsburg,20:55,1.9,False
+859,Skivee,5148 Monica Lane,Chinese,cheap,Manhattan,12:08,1.5,False
+860,Dynava,908 Mallard Park,Indian,medium,Greenwich Village,6:44,2.6,False
+861,Topicstorm,2084 Anthes Lane,Indian,expensive,Upper East Side,3:23,0.1,False
+862,Browsecat,84 Miller Point,French,medium,Bronx,23:35,4.1,True
+863,Trunyx,66 Roxbury Trail,American,expensive,Manhattan,1:26,1.5,False
+864,Yacero,96 Fallview Court,Mediterranean,cheap,Bronx,13:47,2.4,False
+865,Dabtype,7389 Washington Lane,French,expensive,Greenwich Village,2:23,1.8,True
+866,Twitterworks,5 Nobel Pass,Chinese,medium,Williamsburg,14:01,2.1,False
+867,Twinte,612 Birchwood Place,Thai,expensive,Bronx,0:40,0.2,False
+868,Gabcube,039 Express Lane,Mediterranean,expensive,Harlem,17:02,4.3,False
+869,Tagtune,02206 Moland Pass,Italian,medium,Brooklyn,0:12,1.7,True
+870,Shufflebeat,02379 Glendale Hill,Greek,medium,Bronx,7:30,0.1,False
+871,Wikizz,32 Homewood Street,Mediterranean,expensive,Upper East Side,22:45,1.3,False
+872,Wikizz,9969 Forest Dale Point,Thai,cheap,Harlem,15:55,2.7,False
+873,Twitterwire,9 Westerfield Trail,French,cheap,Williamsburg,21:37,2.1,False
+874,Topicstorm,4594 Spaight Lane,French,cheap,Staten Island,16:03,4.8,True
+875,Yambee,74081 Mifflin Street,Mexican,cheap,Staten Island,12:19,2.2,True
+876,Voomm,7168 Northport Road,Mediterranean,medium,Brooklyn,10:26,2.1,True
+877,Vinder,2 Twin Pines Circle,Mediterranean,expensive,Williamsburg,22:14,3.2,False
+878,Linkbuzz,44067 Cardinal Park,Greek,cheap,Harlem,20:06,4.7,False
+879,Brightbean,810 Wayridge Circle,American,expensive,Manhattan,8:21,4.9,True
+880,Devify,9 Reinke Hill,Thai,medium,Astoria,15:18,3.6,False
+881,Wordpedia,759 Vermont Junction,Japanese,medium,Brooklyn,14:17,4.4,True
+882,Myworks,9 Moulton Avenue,Chinese,expensive,Harlem,16:03,0.9,True
+883,Thoughtstorm,24467 Haas Terrace,French,expensive,Brooklyn,12:34,1.2,True
+884,Fiveclub,48342 Bunker Hill Crossing,French,medium,Greenwich Village,9:46,1.2,False
+885,Skyvu,38307 Gale Trail,Thai,medium,Williamsburg,7:58,2.0,True
+886,Kwinu,422 Meadow Vale Street,Thai,expensive,Upper East Side,13:00,4.6,True
+887,Viva,1 Beilfuss Way,Thai,cheap,Harlem,0:44,4.1,True
+888,Bubblebox,28 Michigan Terrace,Mediterranean,medium,Brooklyn,23:46,0.3,False
+889,Skaboo,6 Lunder Way,Mexican,medium,Bronx,1:45,4.0,False
+890,Vidoo,56 Del Mar Way,Thai,cheap,Astoria,20:34,3.0,False
+891,Plajo,5 Mcbride Lane,Indian,cheap,Harlem,6:56,1.1,True
+892,Snaptags,3075 Merry Hill,Indian,expensive,Astoria,4:29,3.2,True
+893,Linktype,5654 Farmco Drive,American,medium,Williamsburg,13:56,4.6,True
+894,Cogilith,6 Meadow Ridge Road,Indian,cheap,Staten Island,18:54,3.4,True
+895,Photofeed,97469 Bayside Terrace,Thai,medium,Astoria,18:35,4.6,True
+896,Yodoo,3181 Di Loreto Circle,Italian,medium,Bronx,11:36,2.9,False
+897,Meedoo,8 Manufacturers Pass,Italian,expensive,Staten Island,4:49,0.4,True
+898,Vimbo,6 Loeprich Drive,Italian,cheap,Williamsburg,5:12,3.8,False
+899,Quaxo,078 Pearson Court,Italian,expensive,Queens,2:55,1.9,False
+900,DabZ,7742 Alpine Junction,Mediterranean,medium,Queens,8:36,0.2,True
+901,Kazio,873 Manley Junction,Chinese,expensive,Staten Island,2:51,1.2,False
+902,Realpoint,7 Logan Court,Mediterranean,expensive,Bronx,13:01,2.3,False
+903,Skidoo,0 Rusk Pass,Mexican,medium,Astoria,7:13,1.6,False
+904,Shuffledrive,7463 Randy Alley,American,expensive,Harlem,5:50,1.1,True
+905,Thoughtbridge,2971 Graceland Court,Indian,medium,Staten Island,7:34,2.5,False
+906,Skiptube,545 Sloan Avenue,Mexican,expensive,Harlem,2:40,2.1,True
+907,Eazzy,53 Sauthoff Crossing,American,medium,Staten Island,23:55,1.1,False
+908,Aimbu,2 Columbus Terrace,Italian,cheap,Williamsburg,14:05,3.8,True
+909,Youopia,411 Fremont Junction,Thai,expensive,Queens,2:06,0.8,False
+910,Realbridge,3 Fair Oaks Junction,Thai,cheap,Harlem,13:47,2.4,False
+911,Kazio,5 Summerview Pass,Indian,cheap,Greenwich Village,3:08,4.6,False
+912,Edgetag,4882 Dovetail Pass,Thai,expensive,Upper East Side,15:12,1.7,False
+913,Topiclounge,42 Mockingbird Way,Chinese,cheap,Greenwich Village,14:12,1.7,True
+914,Tagtune,98 Esch Street,Chinese,cheap,Astoria,2:22,1.1,False
+915,Kwinu,40 Bayside Alley,Indian,cheap,Brooklyn,6:39,0.8,True
+916,Fanoodle,77983 Graceland Avenue,American,cheap,Williamsburg,17:14,1.6,True
+917,Youbridge,4542 Reindahl Crossing,Indian,expensive,Manhattan,18:39,3.9,True
+918,Skyba,249 Dexter Court,American,expensive,Bronx,14:59,4.5,False
+919,Snaptags,15 Express Pass,American,cheap,Staten Island,15:41,1.4,False
+920,Riffwire,713 Red Cloud Crossing,Indian,expensive,Harlem,19:20,0.1,True
+921,Dabjam,3 Eagle Crest Hill,Chinese,medium,Williamsburg,20:26,4.2,True
+922,Skimia,3973 Bonner Lane,Greek,expensive,Harlem,7:03,1.9,True
+923,Skyvu,0 Sage Way,Italian,cheap,Queens,0:53,3.5,False
+924,DabZ,61234 Prairie Rose Park,Japanese,medium,Queens,4:04,2.5,False
+925,Flipbug,7 Bultman Alley,Mediterranean,expensive,Astoria,21:56,0.4,False
+926,BlogXS,99 Sherman Plaza,French,cheap,Manhattan,0:45,1.1,False
+927,Topicblab,33232 Clarendon Avenue,Mexican,medium,Greenwich Village,7:58,4.7,True
+928,Agivu,8720 Corben Park,Thai,cheap,Bronx,2:06,2.9,False
+929,Dynava,6202 Waxwing Park,French,cheap,Brooklyn,4:37,3.8,True
+930,Roomm,98568 Toban Street,Italian,cheap,Harlem,19:12,0.7,False
+931,Oyope,2 Nevada Drive,Mediterranean,medium,Brooklyn,10:10,4.2,True
+932,Midel,68806 Cody Parkway,American,medium,Manhattan,12:39,4.8,True
+933,Tagfeed,41 Twin Pines Junction,Chinese,medium,Astoria,17:22,2.4,True
+934,Skipstorm,83 Nancy Way,French,expensive,Williamsburg,20:56,3.1,False
+935,Gevee,3 Grim Drive,Mexican,cheap,Astoria,10:55,0.0,True
+936,Gabvine,358 8th Plaza,Greek,cheap,Manhattan,15:04,4.3,False
+937,Skiptube,76643 Kensington Lane,Chinese,cheap,Astoria,20:22,3.4,True
+938,Skivee,36295 Parkside Junction,Indian,cheap,Harlem,17:08,1.5,False
+939,Gevee,2 Clarendon Park,Greek,expensive,Williamsburg,5:00,2.3,True
+940,Babbleblab,7 Northwestern Way,Chinese,expensive,Upper East Side,5:35,0.6,True
+941,Gabtype,79234 Columbus Avenue,French,medium,Manhattan,23:04,1.9,False
+942,Topicshots,98525 Grim Circle,Chinese,cheap,Astoria,8:42,1.1,True
+943,Thoughtmix,597 Milwaukee Way,Mediterranean,cheap,Williamsburg,11:07,0.8,True
+944,Voomm,7852 Drewry Trail,Chinese,medium,Williamsburg,13:43,1.6,True
+945,Devcast,47 Raven Hill,Indian,medium,Astoria,13:51,4.5,False
+946,Browsebug,32 Westend Point,French,medium,Upper East Side,6:50,0.8,False
+947,Talane,415 Mcbride Crossing,Chinese,medium,Bronx,0:42,1.7,False
+948,Skinix,0 Reindahl Place,French,cheap,Williamsburg,9:29,3.0,True
+949,Katz,4790 American Ash Court,Chinese,cheap,Bronx,10:59,1.5,True
+950,Wordware,156 Michigan Lane,Mexican,expensive,Bronx,7:29,0.9,False
+951,Wikizz,1182 Kings Point,Greek,cheap,Bronx,15:37,0.1,True
+952,Skyndu,1663 Lien Park,Mediterranean,cheap,Staten Island,3:31,3.0,True
+953,Dablist,14 Corben Circle,Mexican,medium,Greenwich Village,17:44,4.8,False
+954,Quimm,6718 Golf Course Terrace,Thai,medium,Upper East Side,11:43,1.9,False
+955,Wikizz,97391 Straubel Junction,Thai,medium,Manhattan,22:42,3.4,True
+956,Twinte,57 Tennessee Trail,Italian,cheap,Astoria,10:14,2.5,True
+957,Devpulse,78897 Spohn Park,French,expensive,Brooklyn,5:18,1.3,True
+958,Jabbertype,9789 5th Place,Greek,cheap,Astoria,15:19,2.5,False
+959,Aivee,48633 Spenser Alley,Thai,medium,Greenwich Village,22:08,1.8,True
+960,Vimbo,41 Maple Wood Crossing,Mexican,cheap,Williamsburg,3:11,2.0,False
+961,Bubbletube,143 Rutledge Crossing,Italian,cheap,Greenwich Village,1:48,1.2,True
+962,Podcat,2492 Scott Hill,American,medium,Williamsburg,8:24,3.6,True
+963,Flashset,47037 Meadow Vale Way,Indian,cheap,Bronx,3:35,3.2,False
+964,Jetwire,257 Independence Place,Japanese,cheap,Astoria,10:46,1.3,False
+965,Twitterbridge,0039 Westport Hill,French,expensive,Manhattan,15:59,1.2,True
+966,Youtags,0 Garrison Place,Mexican,medium,Brooklyn,7:14,1.9,False
+967,Pixoboo,3724 Drewry Parkway,Greek,cheap,Harlem,1:18,1.7,True
+968,Avamba,1 Dovetail Park,American,cheap,Upper East Side,14:56,0.9,True
+969,Buzzshare,06172 Twin Pines Parkway,Mediterranean,cheap,Upper East Side,8:02,3.9,False
+970,Jabbersphere,74 Northwestern Trail,Italian,cheap,Williamsburg,23:18,2.3,False
+971,Twinder,543 Quincy Hill,Mexican,cheap,Harlem,0:49,2.6,False
+972,Shuffletag,1 Barnett Point,Chinese,medium,Queens,10:13,3.1,True
+973,Quire,971 Russell Terrace,American,expensive,Astoria,18:25,1.5,True
+974,Skimia,03 Glacier Hill Court,French,expensive,Williamsburg,15:02,1.1,False
+975,Bluejam,70157 Superior Plaza,Greek,expensive,Brooklyn,4:03,4.2,False
+976,Gigabox,4 Orin Street,American,cheap,Staten Island,15:08,3.0,False
+977,Skiba,04761 Blue Bill Park Avenue,Greek,expensive,Manhattan,5:59,4.7,False
+978,Quire,136 Walton Hill,Japanese,cheap,Upper East Side,6:42,1.1,True
+979,Riffwire,02847 Canary Court,Italian,cheap,Astoria,12:40,0.9,True
+980,Aimbo,25 Glendale Circle,Mediterranean,expensive,Manhattan,19:07,4.1,True
+981,Trilia,36 School Park,Greek,cheap,Astoria,2:56,4.6,True
+982,Realpoint,5 Springview Plaza,French,medium,Upper East Side,16:46,0.2,True
+983,Dabjam,05 Nancy Avenue,Indian,expensive,Staten Island,13:29,4.3,False
+984,Fiveclub,243 Moose Pass,Chinese,expensive,Queens,23:34,1.4,False
+985,Yamia,1854 Logan Court,Mediterranean,cheap,Bronx,4:53,1.5,True
+986,Tambee,017 Melvin Point,Greek,expensive,Greenwich Village,4:55,2.7,False
+987,Quire,3822 Jenifer Junction,Italian,medium,Upper East Side,3:10,3.9,True
+988,Vinte,5 Bowman Plaza,American,expensive,Astoria,14:51,4.7,True
+989,Gabtune,17234 Sundown Trail,French,expensive,Williamsburg,12:30,2.6,False
+990,Rhynoodle,192 Porter Way,American,medium,Astoria,18:28,2.0,True
+991,Wikibox,51117 Kensington Junction,Greek,cheap,Greenwich Village,23:08,3.4,True
+992,Kanoodle,508 Heffernan Lane,Japanese,medium,Astoria,4:31,1.1,False
+993,Twitterbeat,890 Onsgard Point,Chinese,expensive,Brooklyn,21:45,4.5,False
+994,Skiptube,51 Kennedy Parkway,Italian,cheap,Harlem,9:51,1.8,True
+995,Kare,01134 Swallow Road,Indian,medium,Brooklyn,8:23,2.1,True
+996,Tekfly,18 Forest Run Drive,Mexican,expensive,Bronx,20:35,3.9,False
+997,Voonte,8854 Pennsylvania Hill,French,medium,Brooklyn,3:25,0.7,True
+998,Camimbo,2 Havey Trail,Chinese,expensive,Williamsburg,10:48,2.0,True
+999,Linklinks,755 Luster Point,Chinese,medium,Harlem,2:33,3.0,False
+1000,Lazzy,29 Derek Plaza,Thai,cheap,Upper East Side,7:49,3.0,False
